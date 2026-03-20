@@ -22,12 +22,12 @@ Each document is a narrative educational review of published literature prepared
 
 | File | Description |
 |------|-------------|
-| `02_Comparative_Educational_Review.md` | Literature-based review of multimodal analgesic approaches in breast reconstruction revision, including regional anesthesia, opioid-sparing strategies, and ERAS-aligned frameworks |
-| `03_Patient_Communication_Analysis.md` | Analysis of patient communication challenges in perioperative counseling, with attention to health literacy, shared decision-making, and informed preference formation |
-| `04_Postoperative_Recovery_Considerations.md` | Conceptual analysis of postoperative recovery as a multidimensional outcome domain, examining the gap between standard recovery metrics and patient-experienced recovery |
-| `06_References.md` | Master reference list consolidating all sources cited across the three review documents |
-| `CITATION.cff` | Formal citation metadata |
-| `LICENSE` | CC BY 4.0 |
+| [02_Comparative_Educational_Review.md](02_Comparative_Educational_Review.md) | Literature-based review of multimodal analgesic approaches in breast reconstruction revision, including regional anesthesia, opioid-sparing strategies, and ERAS-aligned frameworks |
+| [03_Patient_Communication_Analysis.md](03_Patient_Communication_Analysis.md) | Analysis of patient communication challenges in perioperative counseling, with attention to health literacy, shared decision-making, and informed preference formation |
+| [04_Postoperative_Recovery_Considerations.md](04_Postoperative_Recovery_Considerations.md) | Conceptual analysis of postoperative recovery as a multidimensional outcome domain, examining the gap between standard recovery metrics and patient-experienced recovery |
+| [06_References.md](06_References.md) | Master reference list consolidating all sources cited across the three review documents |
+| [CITATION.cff](CITATION.cff) | Formal citation metadata |
+| [LICENSE](LICENSE) | CC BY 4.0 |
 
 ---
 
@@ -92,11 +92,11 @@ Full references with DOIs are provided in `06_References.md`.
 
 **Vancouver**
 
-George CB. Breast reconstruction analgesia review: independent scholarly literature reviews in perioperative analgesia, communication, and recovery [Internet]. Educational portfolio. 2025. Available from: https://github.com/collingeorge/breast-reconstruction-analgesia-review
+George CB. Breast reconstruction analgesia review: independent scholarly literature reviews on perioperative analgesia, patient communication, and recovery outcomes [Internet]. Educational portfolio. 2025. Available from: https://github.com/collingeorge/Breast-Reconstruction-Analgesia-Review
 
 **APA**
 
-George, C. B. (2025). *Breast reconstruction analgesia review: Independent scholarly literature reviews in perioperative analgesia, communication, and recovery* [Educational portfolio]. GitHub. https://github.com/collingeorge/breast-reconstruction-analgesia-review
+George, C. B. (2025). *Breast reconstruction analgesia review: Independent scholarly literature reviews on perioperative analgesia, patient communication, and recovery outcomes* [Educational portfolio]. GitHub. https://github.com/collingeorge/Breast-Reconstruction-Analgesia-Review
 
 ---
 
