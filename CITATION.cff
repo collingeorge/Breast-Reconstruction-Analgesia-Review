@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-title: "Breast Reconstruction Anesthesia Protocol"
+title: "Breast Reconstruction Analgesia Review"
 message: "If you use this repository, please cite it using the information below."
 authors:
   - family-names: George
@@ -8,18 +8,22 @@ authors:
 version: "1.0"
 date-released: "2025-12-08"
 license: "CC-BY-4.0"
-repository-code: "https://github.com/collingeorge/Breast-Reconstruction-Anesthesia-Protocol"
+repository-code: "https://github.com/collingeorge/Breast-Reconstruction-Analgesia-Review"
 keywords:
-  - anesthesia
-  - breast reconstruction
   - perioperative medicine
   - multimodal analgesia
-  - cosmetic surgery
+  - breast reconstruction
+  - regional anesthesia
+  - patient communication
+  - postoperative recovery
+  - health literacy
+  - shared decision-making
+  - opioid-sparing anesthesia
 preferred-citation:
-  type: article
+  type: generic
   authors:
     - family-names: George
       given-names: Collin B.
-  title: "Breast Reconstruction Anesthesia Protocol: A Perioperative Framework for Elective Cosmetic Surgery"
+  title: "Breast Reconstruction Analgesia Review: Independent Scholarly Literature Reviews on Perioperative Analgesia, Patient Communication, and Recovery Outcomes"
   year: 2025
-  url: "https://github.com/collingeorge/Breast-Reconstruction-Anesthesia-Protocol"
+  url: "https://github.com/collingeorge/Breast-Reconstruction-Analgesia-Review"
