@@ -27,7 +27,7 @@ The goal is not to describe the recovery process itself, but to analyze the cons
 
 ## Background: The Conceptual Complexity of Postoperative Recovery
 
-Postoperative recovery is not a single outcome. Published perioperative literature increasingly characterizes it as a multidimensional construct encompassing physiological, functional, psychological, and patient-reported dimensions — each of which may follow a different trajectory and respond differently to perioperative interventions (Bowyer et al., 2014; Myles et al., 2001; Stark et al., 2013).
+Postoperative recovery is not a single outcome. Published perioperative literature increasingly characterizes it as a multidimensional construct encompassing physiological, functional, psychological, and patient-reported dimensions — each of which may follow a different trajectory and respond differently to perioperative interventions (Bowyer et al., 2014; Myles et al., 1999; Stark et al., 2013).
 
 This complexity is relevant in the breast reconstruction revision setting for several reasons. The procedures involved vary substantially in invasive burden, from straightforward implant exchange to extensive capsulectomy with pocket revision, and that variability is not always captured by the standard outcome metrics used in comparative studies. Moreover, patients in this population frequently bring prior surgical experience, cancer-related psychological history, and established body image concerns to the recovery environment — factors that published literature suggests may shape recovery experience independently of physiological outcomes (Fingeret et al., 2016; Pusic et al., 2009).
 
@@ -41,7 +41,7 @@ The consequence is that standard recovery metrics may not fully characterize pat
 
 Published perioperative literature on breast reconstruction revision surgery most frequently characterizes recovery through a limited set of measurable outcomes: postoperative pain scores (typically numeric rating scale), PONV incidence, time to discharge readiness, and opioid consumption in the early postoperative period. These metrics are tractable, comparable across studies, and amenable to quantification in clinical trials and quality improvement programs.
 
-However, published methodological literature on recovery measurement consistently notes that these metrics are neither comprehensive nor equivalent to recovery as experienced by patients (Myles et al., 2001; Bowyer et al., 2014). Pain scores capture intensity but not character, duration, or functional impact. PONV incidence captures the presence of a complication but not its severity, duration, or contribution to overall recovery quality. Time to discharge readiness reflects institutional criteria and workflow factors as much as patient physiological state.
+However, published methodological literature on recovery measurement consistently notes that these metrics are neither comprehensive nor equivalent to recovery as experienced by patients (Myles et al., 1999; Bowyer et al., 2014). Pain scores capture intensity but not character, duration, or functional impact. PONV incidence captures the presence of a complication but not its severity, duration, or contribution to overall recovery quality. Time to discharge readiness reflects institutional criteria and workflow factors as much as patient physiological state.
 
 ### 1.2 Functional Recovery
 
@@ -61,7 +61,7 @@ However, the published literature applying PROMs specifically to the recovery ph
 
 ### 2.1 What Standard Metrics May Miss
 
-A recurring theme across published recovery science literature is that standard perioperative metrics — however useful for comparative research — may systematically underrepresent dimensions of recovery that matter most to patients (Myles et al., 2001; Stark et al., 2013). Published qualitative research on postoperative experience in oncology-adjacent surgical settings suggests that patients frequently prioritize dimensions including cognitive clarity, fatigue, sleep quality, emotional equilibrium, and perceived sense of progress — none of which are captured in standard pain or PONV metrics (Aaronson et al., 1993).
+A recurring theme across published recovery science literature is that standard perioperative metrics — however useful for comparative research — may systematically underrepresent dimensions of recovery that matter most to patients (Myles et al., 1999; Stark et al., 2013). Published qualitative research on postoperative experience in oncology-adjacent surgical settings suggests that patients frequently prioritize dimensions including cognitive clarity, fatigue, sleep quality, emotional equilibrium, and perceived sense of progress — none of which are captured in standard pain or PONV metrics (Aaronson et al., 1993).
 
 In the breast reconstruction revision setting specifically, published literature on psychosocial outcomes after reconstruction suggests that patients' subjective recovery experience is shaped by factors well beyond physiological indices: the degree to which the outcome meets prior expectations, the emotional significance of the surgical result relative to the cancer treatment history, and the social context of recovery (Pusic et al., 2009; Fingeret et al., 2016). These dimensions are not currently incorporated into standard recovery metrics used in anesthetic comparison studies.
 
@@ -135,12 +135,10 @@ This analysis has examined that gap as a conceptual problem in the published lit
 - Bowyer AJ et al. A review of the scope and measurement of postoperative quality of recovery. *Anaesthesia*. 2014;69(11):1266–1278.
 - Fingeret MC et al. Body image and quality of life of breast cancer patients: influence of timing and stage of breast reconstruction. *Psycho-Oncology*. 2016;25(9):1106–1112.
 - Kehlet H, Wilmore DW. Evidence-based surgical care and the evolution of fast-track surgery. *Annals of Surgery*. 2008.
-- Keurentjes JC et al. Preoperative expectation of patients and surgeons as a predictor of surgical outcome. *Journal of Bone and Joint Surgery*. 2013.
 - Ljungqvist O et al. Enhanced recovery after surgery: a review. *JAMA Surgery*. 2017.
-- Myles PS et al. Measuring acute postoperative quality of recovery. *Anesthesiology*. 2001.
+- Myles PS, Hunt JO, Nightingale CE, et al. Development and psychometric testing of a quality of recovery score after general anesthesia and surgery in adults. *Anesthesia & Analgesia.* 1999;88(1):83–90. doi:10.1097/00000539-199901000-00015
 - Pusic AL et al. Development of a new patient-reported outcome measure for breast surgery: the BREAST-Q. *Plastic and Reconstructive Surgery*. 2009.
 - Stark PA, Myles PS, Burke JA. Development and psychometric evaluation of a postoperative quality of recovery score: the QoR-15. *Anesthesiology*. 2013;118(6):1332-1340.
-- Uitterhoeve R et al. The association between perceived patient-physician communication and outcomes. *Patient Education and Counseling*. 2009.
 
 ---
 
@@ -154,7 +152,7 @@ This is an independent scholarly work. It is not affiliated with, endorsed by, r
 
 Licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
 
-© 2025 Collin B. George — https://github.com/collingeorge/breast-reconstruction-analgesia-review
+© 2025 Collin B. George — https://github.com/collingeorge/Breast-Reconstruction-Analgesia-Review
 
 ---
 
