@@ -19,7 +19,9 @@ American Society of Regional Anesthesia and Pain Medicine. Practice advisories o
 
 Apfel CC, Läärä E, Koivuranta M, Greim CA, Roewer N. A simplified risk score for predicting postoperative nausea and vomiting: conclusions from cross-validations between two centers. *Anesthesiology.* 1999;91(3):693–700. doi:10.1097/00000542-199909000-00022
 
-American Society of Anesthesiologists; Anesthesia Patient Safety Foundation. Perioperative safety communications. 2022. Available at: https://www.asahq.org and https://www.apsf.org
+American Society of Anesthesiologists. Perioperative safety communications. 2022. Available at: https://www.asahq.org
+
+Anesthesia Patient Safety Foundation. Perioperative safety communications. 2022. Available at: https://www.apsf.org
 
 Barry MJ, Edgman-Levitan S. Shared decision making — the pinnacle of patient-centered care. *New England Journal of Medicine.* 2012;366(9):780–781. doi:10.1056/NEJMp1109283
 
@@ -55,13 +57,15 @@ Han PKJ, Klein WMP, Arora NK. Varieties of uncertainty in health care: a concept
 
 Institute of Medicine. *Health Literacy: A Prescription to End Confusion.* National Academies Press; 2004. doi:10.17226/10883
 
+Keurentjes JC, Söderqvist A, Weidenhielm L, Eskelinen A, Skyttä ET. Preoperative prediction of patient-relevant outcome after total hip arthroplasty. *Journal of Bone and Joint Surgery (British).* 2013;95-B(2):196–202. doi:10.1302/0301-620X.95B2.30123
+
 Kehlet H, Wilmore DW. Evidence-based surgical care and the evolution of fast-track surgery. *Annals of Surgery.* 2008;248(2):189–198. doi:10.1097/SLA.0b013e31817f2c1a
 
 Kim DH, Oh YJ, Lee JG, Ha D, Chang YJ, Kwak HJ. Efficacy of ultrasound-guided serratus anterior plane block on postoperative quality of recovery and analgesia after video-assisted thoracic surgery: a randomized, triple-blind, placebo-controlled study. *Anesthesia & Analgesia.* 2018;126(4):1353–1361. doi:10.1213/ANE.0000000000002651
 
 Ljungqvist O, Scott M, Fearon KC. Enhanced recovery after surgery: a review. *JAMA Surgery.* 2017;152(3):292–298. doi:10.1001/jamasurg.2016.4952
 
-McCarthy GC, Megalla SA, Habib AS. Impact of intravenous lidocaine infusion on postoperative analgesia and recovery from surgery: a systematic review of randomized controlled trials. *Drugs.* 2010;70(9):1149–1163.
+McCarthy GC, Megalla SA, Habib AS. Impact of intravenous lidocaine infusion on postoperative analgesia and recovery from surgery: a systematic review of randomized controlled trials. *Drugs.* 2010;70(9):1149–1163. doi:10.2165/10898560-000000000-00000
 
 Mulley AG, Trimble C, Elwyn G. Stop the silent misdiagnosis: patients' preferences matter. *BMJ.* 2012;345:e6572. doi:10.1136/bmj.e6572
 
@@ -87,6 +91,8 @@ Stark PA, Myles PS, Burke JA. Development and psychometric evaluation of a posto
 
 Weerink MAS, Struys MMRF, Hannivoort LN, Barends CRM, Absalom AR, Colin P. Clinical pharmacology of dexmedetomidine: a systematic review of its intrinsic and extrinsic properties. *Clinical Pharmacokinetics.* 2017;56(8):893–913. doi:10.1007/s40262-017-0507-7
 
+Uitterhoeve RJ, Bensing JM, Grol RP, Demulder PHM, van Achterberg T. The effect of communication skills training on patient outcomes in cancer care: a systematic review of the literature. *European Journal of Cancer Care.* 2009;19(4):442–457. doi:10.1111/j.1365-2354.2009.01082.x
+
 Weiss BD. *Health Literacy and Patient Safety: Help Patients Understand.* AMA Foundation; 2007.
 
 White PF, Kehlet H, Neal JM, et al. The role of the anesthesiologist in fast-track surgery: from multimodal analgesia to perioperative medical care. *Anesthesia & Analgesia.* 2007;104(6):1380–1396. doi:10.1213/01.ane.0000263034.96885.e1
@@ -103,4 +109,4 @@ This reference list is part of an independent scholarly work. It is not affiliat
 
 Licensed under Creative Commons Attribution 4.0 International (CC BY 4.0).
 
-© 2025 Collin B. George — https://github.com/collingeorge/breast-reconstruction-analgesia-review
+© 2025 Collin B. George — https://github.com/collingeorge/Breast-Reconstruction-Analgesia-Review

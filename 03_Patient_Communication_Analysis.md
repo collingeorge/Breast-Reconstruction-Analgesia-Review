@@ -206,7 +206,7 @@ This is an independent scholarly work. It is not affiliated with, endorsed by, r
 
 Licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
 
-© 2025 Collin B. George — https://github.com/collingeorge/breast-reconstruction-analgesia-review
+© 2025 Collin B. George — https://github.com/collingeorge/Breast-Reconstruction-Analgesia-Review
 
 ---
 
