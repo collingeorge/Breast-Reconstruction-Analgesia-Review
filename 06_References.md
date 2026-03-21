@@ -17,11 +17,13 @@ American Society of Anesthesiologists. Guidelines for the Ethical Practice of An
 
 American Society of Regional Anesthesia and Pain Medicine. Practice advisories on regional anesthesia safety and local anesthetic systemic toxicity management. 2020–2024. Available at: https://www.asra.com/guidelines-articles/asra-guidelines
 
-Apfel CC, Läärä E, Koivuranta M, Greim CA, Roewer N. A simplified risk score for predicting postoperative nausea and vomiting: conclusions from cross-validations between two centers. *Anesthesiology.* 1999;91(3):693–700. doi:10.1097/00000542-199909000-00022
-
 American Society of Anesthesiologists. Perioperative safety communications. 2022. Available at: https://www.asahq.org
 
 Anesthesia Patient Safety Foundation. Perioperative safety communications. 2022. Available at: https://www.apsf.org
+
+Apfel CC, Läärä E, Koivuranta M, Greim CA, Roewer N. A simplified risk score for predicting postoperative nausea and vomiting: conclusions from cross-validations between two centers. *Anesthesiology.* 1999;91(3):693–700. doi:10.1097/00000542-199909000-00022
+
+
 
 Barry MJ, Edgman-Levitan S. Shared decision making — the pinnacle of patient-centered care. *New England Journal of Medicine.* 2012;366(9):780–781. doi:10.1056/NEJMp1109283
 
@@ -92,7 +94,6 @@ Stark PA, Myles PS, Burke JA. Development and psychometric evaluation of a posto
 Uitterhoeve RJ, Bensing JM, Grol RP, Demulder PHM, van Achterberg T. The effect of communication skills training on patient outcomes in cancer care: a systematic review of the literature. *European Journal of Cancer Care.* 2009;19(4):442–457. doi:10.1111/j.1365-2354.2009.01082.x
 
 Weerink MAS, Struys MMRF, Hannivoort LN, Barends CRM, Absalom AR, Colin P. Clinical pharmacology of dexmedetomidine: a systematic review of its intrinsic and extrinsic properties. *Clinical Pharmacokinetics.* 2017;56(8):893–913. doi:10.1007/s40262-017-0507-7
-
 
 Weiss BD. *Health Literacy and Patient Safety: Help Patients Understand.* AMA Foundation; 2007.
 
