@@ -65,7 +65,7 @@ Kim DH, Oh YJ, Lee JG, Ha D, Chang YJ, Kwak HJ. Efficacy of ultrasound-guided se
 
 Ljungqvist O, Scott M, Fearon KC. Enhanced recovery after surgery: a review. *JAMA Surgery.* 2017;152(3):292–298. doi:10.1001/jamasurg.2016.4952
 
-McCarthy GC, Megalla SA, Habib AS. Impact of intravenous lidocaine infusion on postoperative analgesia and recovery from surgery: a systematic review of randomized controlled trials. *Drugs.* 2010;70(9):1149–1163. doi:10.2165/10898560-000000000-00000
+McCarthy GC, Megalla SA, Habib AS. Impact of intravenous lidocaine infusion on postoperative analgesia and recovery from surgery: a systematic review of randomized controlled trials. *Drugs.* 2010;70(9):1149–1163. PMID 20518581
 
 Mulley AG, Trimble C, Elwyn G. Stop the silent misdiagnosis: patients' preferences matter. *BMJ.* 2012;345:e6572. doi:10.1136/bmj.e6572
 
@@ -89,9 +89,10 @@ Stacey D, Légaré F, Lewis K, et al. Decision aids for people facing health tre
 
 Stark PA, Myles PS, Burke JA. Development and psychometric evaluation of a postoperative quality of recovery score: the QoR-15. *Anesthesiology.* 2013;118(6):1332–1340. doi:10.1097/ALN.0b013e318289b84b
 
+Uitterhoeve RJ, Bensing JM, Grol RP, Demulder PHM, van Achterberg T. The effect of communication skills training on patient outcomes in cancer care: a systematic review of the literature. *European Journal of Cancer Care.* 2009;19(4):442–457. doi:10.1111/j.1365-2354.2009.01082.x
+
 Weerink MAS, Struys MMRF, Hannivoort LN, Barends CRM, Absalom AR, Colin P. Clinical pharmacology of dexmedetomidine: a systematic review of its intrinsic and extrinsic properties. *Clinical Pharmacokinetics.* 2017;56(8):893–913. doi:10.1007/s40262-017-0507-7
 
-Uitterhoeve RJ, Bensing JM, Grol RP, Demulder PHM, van Achterberg T. The effect of communication skills training on patient outcomes in cancer care: a systematic review of the literature. *European Journal of Cancer Care.* 2009;19(4):442–457. doi:10.1111/j.1365-2354.2009.01082.x
 
 Weiss BD. *Health Literacy and Patient Safety: Help Patients Understand.* AMA Foundation; 2007.
 

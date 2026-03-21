@@ -2,7 +2,7 @@
 
 **Collin B. George, BS**
 Independent Literature Review
-Version 1.2 — December 2025
+Version 1.3 — March 2026
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 ---
@@ -31,7 +31,7 @@ This work is best understood as a narrative educational review rather than a sys
 
 Literature was identified through searches of PubMed and related databases using combinations of terms including "breast reconstruction," "implant revision," "regional anesthesia," "PECS block," "opioid-sparing anesthesia," "opioid-free anesthesia," "PONV," "multimodal analgesia," and "enhanced recovery after surgery." The date range emphasized publications from 2020 through 2025. Priority was given to society guidance, systematic reviews, randomized trials, and perioperative publications most directly relevant to breast surgery and reconstruction settings. Approximately 30 sources informed the discussion.
 
-Evidence quality across sources is heterogeneous. Where possible, guideline-level evidence is distinguished from trial-level evidence and expert opinion, though this review does not apply a formal evidence-grading framework. Readers should consult primary sources and institutional resources for any clinical purpose.
+Evidence quality across sources is heterogeneous. Where possible, guideline-level evidence is distinguished from trial-level evidence and expert opinion, though this review does not apply a formal evidence-grading framework. Where direct evidence specific to breast reconstruction revision was limited, adjacent surgical literature was interpreted cautiously and identified as extrapolative where applicable. Readers should consult primary sources and institutional resources for any clinical purpose.
 
 ---
 
@@ -69,11 +69,11 @@ A limitation noted across the literature is heterogeneity in study populations, 
 
 The pectoral nerve block techniques, first described by Blanco in 2012, have been the subject of substantial literature interest in the context of breast surgery analgesia. PECS I targets the pectoral nerves in the fascial plane between pectoralis major and pectoralis minor. PECS II extends coverage to the serratus anterior plane, targeting medial and lateral pectoral nerves and the long thoracic nerve.
 
-Several reviews and trials describe opioid-sparing effects associated with PECS blocks in breast reconstruction settings, although effect size, certainty, and generalizability vary across studies (Abdallah et al., 2021; Kim et al., 2018). ASRA-affiliated literature discusses these techniques within a broader framework of regional anesthesia expansion in thoracic and breast surgery. Dexamethasone as a perineural adjuvant is discussed in several sources as potentially extending block duration, though optimal dosing and route remain subjects of ongoing investigation.
+Several reviews and trials describe opioid-sparing effects associated with PECS blocks in breast surgery and reconstruction-related settings, although effect size, certainty, and generalizability vary across studies (Abdallah et al., 2021). ASRA-affiliated literature discusses these techniques within a broader framework of regional anesthesia expansion in thoracic and breast surgery. Dexamethasone as a perineural adjuvant has been discussed in peripheral nerve block literature as potentially extending block duration, though the magnitude of effect and optimal dosing remain heterogeneous across published studies; evidence specific to PECS techniques is limited relative to the broader peripheral nerve block literature.
 
 ### 2.2 Serratus Anterior Plane Block
 
-The serratus anterior plane (SAP) block has been described as an alternative or complement to PECS II, with reported coverage of the lateral chest wall (Kim et al., 2018). Some authors describe it as accessible in cases where the PECS II plane is difficult to identify anatomically, though comparative evidence between techniques remains limited.
+The serratus anterior plane (SAP) block has been described as an alternative or complement to PECS II, with reported coverage of the lateral chest wall. Published evidence for the SAP block includes data from thoracic surgery populations — including Kim et al. (Anesthesia & Analgesia, 2018), which evaluated the block in video-assisted thoracic surgery patients — and extrapolation to breast reconstruction revision settings remains indirect. Some authors describe the SAP block as accessible in cases where the PECS II plane is difficult to identify anatomically, though comparative evidence between techniques in breast-specific populations remains limited.
 
 ### 2.3 Reported Considerations and Limitations
 
@@ -115,13 +115,13 @@ Propofol-based TIVA is discussed in published literature as associated with redu
 
 ### 4.1 Continued Role in Selected Populations
 
-Published literature does not characterize opioid-inclusive anesthesia as categorically suboptimal in all contexts. Several sources discuss populations in which opioid-containing approaches may represent an appropriate and clinically supported option — including patients on chronic opioid therapy, those with multiple contraindications to non-opioid adjuncts, and those in whom opioid-sparing strategies have previously proven inadequate.
+Published literature does not characterize opioid-inclusive anesthesia as categorically suboptimal in all contexts. Several sources discuss populations in which opioid-containing approaches may represent an appropriate and clinically supported option — including patients on chronic opioid therapy, those with multiple contraindications to non-opioid adjuncts, and those in whom opioid-sparing strategies have previously proven inadequate (PROSPECT Working Group, 2022; ERAS Society, 2023).
 
-The literature also discusses the ethical and clinical importance of adequate perioperative analgesia in patients with opioid tolerance, noting that inadequate pain management in these patients carries its own patient safety implications. Coordination with chronic prescribers and pain management specialists is discussed as important in these contexts.
+The literature also discusses the ethical and clinical importance of adequate perioperative analgesia in patients with opioid tolerance, noting that inadequate pain management in these patients carries its own patient safety implications (White et al., 2007). Coordination with chronic prescribers and pain management specialists is discussed as important in these contexts.
 
 ### 4.2 Opioid Minimization Within Conventional Approaches
 
-Even within opioid-containing frameworks, published ERAS literature commonly discusses opioid minimization principles, including reduced opioid exposure where feasible and combination with non-opioid multimodal adjuncts. This framing reflects the broader opioid stewardship orientation present throughout contemporary perioperative literature.
+Even within opioid-containing frameworks, published ERAS literature commonly discusses opioid minimization principles, including reduced opioid exposure where feasible and combination with non-opioid multimodal adjuncts (Kehlet & Wilmore, 2008; ERAS Society, 2023). This framing reflects the broader opioid stewardship orientation present throughout contemporary perioperative literature.
 
 ### 4.3 PONV in Opioid-Inclusive Contexts
 
@@ -137,7 +137,7 @@ Published literature discussing the comparison between opioid-sparing and opioid
 
 ### 5.2 Factors Discussed as Relevant in the Literature
 
-The literature discusses several patient and procedural factors as potentially relevant to analgesic approach considerations in this setting:
+Across ERAS-aligned and perioperative review literature, commonly discussed patient and procedural factors relevant to analgesic approach considerations in this setting include (PROSPECT Working Group, 2022; ERAS Society, 2023; Gan et al., 2020):
 
 - PONV risk profile and individual risk factors
 - Coagulopathy or anticoagulation status as relevant to regional anesthesia feasibility
@@ -177,15 +177,15 @@ The relationship between anesthetic technique and PONV is discussed in terms of 
 
 ## Section 7: Special Population Considerations in the Literature
 
-Published literature discusses several patient populations as warranting particular attention in perioperative planning for breast surgery:
+Published perioperative literature and safety guidance commonly identify several patient populations as requiring additional consideration in analgesic planning:
 
-**Elderly and frail patients** are discussed with reference to increased sensitivity to sedative and analgesic agents, higher delirium risk, reduced hepatic and renal clearance, and the importance of thoughtful dose consideration and postoperative monitoring. Processed EEG monitoring is discussed in some publications as potentially useful for anesthetic depth titration in this population.
+**Elderly and frail patients** are discussed with reference to increased sensitivity to sedative and analgesic agents, higher delirium risk, reduced hepatic and renal clearance, and the importance of thoughtful dose consideration and postoperative monitoring (White et al., 2007). Processed EEG monitoring is discussed in some publications as potentially useful for anesthetic depth titration in this population.
 
-**Patients with obstructive sleep apnea** are discussed as a population in whom opioid-related respiratory depression risk may be elevated, and in whom enhanced postoperative monitoring — including continuous pulse oximetry — is discussed as a relevant clinical consideration in published perioperative safety literature.
+**Patients with obstructive sleep apnea** are discussed as a population in whom opioid-related respiratory depression risk may be elevated, and in whom enhanced postoperative monitoring — including continuous pulse oximetry — is discussed as a relevant clinical consideration in published perioperative safety literature (ASA/APSF, 2022).
 
-**Patients on chronic opioid therapy** are discussed in terms of tolerance, opioid-induced hyperalgesia, and the importance of perioperative analgesic planning that accounts for baseline opioid requirements. Coordination with prescribing clinicians is described as important in this context.
+**Patients on chronic opioid therapy** are discussed in terms of tolerance, opioid-induced hyperalgesia, and the importance of perioperative analgesic planning that accounts for baseline opioid requirements (White et al., 2007). Coordination with prescribing clinicians is described as important in this context.
 
-**Patients with opioid use disorder in recovery** are discussed with attention to the ethical dimensions of opioid exposure in the perioperative setting, the potential value of opioid-sparing approaches in minimizing relapse risk where feasible, and the importance of involving addiction medicine or recovery support resources.
+**Patients with opioid use disorder in recovery** are discussed with attention to the ethical dimensions of opioid exposure in the perioperative setting, the potential value of opioid-sparing approaches in minimizing relapse risk where feasible, and the importance of involving addiction medicine or recovery support resources (ERAS Society, 2023).
 
 These population-specific considerations are drawn from published literature and are presented here for educational purposes only.
 
