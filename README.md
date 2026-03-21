@@ -22,6 +22,7 @@ Each document is a narrative educational review of published literature prepared
 
 | File | Description |
 |------|-------------|
+| [George-Perioperative-Review-2025.pdf](George-Perioperative-Review-2025.pdf) | **Full manuscript PDF** — unified narrative review with CM-STYLE-01 formatting, GRADE-labeled Key Interpretations, conceptual figure, and complete reference list |
 | [02_Comparative_Educational_Review.md](02_Comparative_Educational_Review.md) | Literature-based review of multimodal analgesic approaches in breast reconstruction revision, including regional anesthesia, opioid-sparing strategies, and ERAS-aligned frameworks |
 | [03_Patient_Communication_Analysis.md](03_Patient_Communication_Analysis.md) | Analysis of patient communication challenges in perioperative counseling, with attention to health literacy, shared decision-making, and informed preference formation |
 | [04_Postoperative_Recovery_Considerations.md](04_Postoperative_Recovery_Considerations.md) | Conceptual analysis of postoperative recovery as a multidimensional outcome domain, examining the gap between standard recovery metrics and patient-experienced recovery |
