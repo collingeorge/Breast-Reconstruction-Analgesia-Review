@@ -2,7 +2,7 @@
 
 **Collin B. George, BS**
 Independent Literature Review
-Version 1.0 — December 2025
+Version 1.1 — March 2026
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 ---
@@ -47,7 +47,7 @@ However, published methodological literature on recovery measurement consistentl
 
 Functional recovery — the return to baseline physical capacity and daily activity — is discussed in published ERAS literature as a clinically important recovery dimension that is often inadequately captured by early postoperative metrics (Ljungqvist et al., 2017). In the breast reconstruction revision setting, functional recovery involves considerations including upper extremity mobility, fatigue, and the ability to resume domestic and occupational activity, none of which are consistently measured in published comparative studies of analgesic approaches.
 
-The distinction between physiological discharge readiness and functional recovery is discussed in published ERAS-oriented literature as a meaningful gap in how perioperative outcomes are assessed and reported (Stark et al., 2013).
+The distinction between physiological discharge readiness and functional recovery is discussed in published ERAS-oriented literature as a meaningful gap in how perioperative outcomes are assessed and reported (Ljungqvist et al., 2017; Stark et al., 2013).
 
 ### 1.3 Patient-Reported Outcomes
 
@@ -61,7 +61,7 @@ However, the published literature applying PROMs specifically to the recovery ph
 
 ### 2.1 What Standard Metrics May Miss
 
-A recurring theme across published recovery science literature is that standard perioperative metrics — however useful for comparative research — may systematically underrepresent dimensions of recovery that matter most to patients (Myles et al., 1999; Stark et al., 2013). Published qualitative research on postoperative experience in oncology-adjacent surgical settings suggests that patients frequently prioritize dimensions including cognitive clarity, fatigue, sleep quality, emotional equilibrium, and perceived sense of progress — none of which are captured in standard pain or PONV metrics (Aaronson et al., 1993).
+A recurring theme across published recovery science literature is that standard perioperative metrics — however useful for comparative research — may systematically underrepresent dimensions of recovery that matter most to patients (Myles et al., 1999; Stark et al., 2013). Broader quality-of-life and recovery measurement literature includes dimensions such as cognitive clarity, fatigue, emotional equilibrium, and perceived sense of progress — many of which are not captured in standard pain or PONV metrics (Aaronson et al., 1993).
 
 In the breast reconstruction revision setting specifically, published literature on psychosocial outcomes after reconstruction suggests that patients' subjective recovery experience is shaped by factors well beyond physiological indices: the degree to which the outcome meets prior expectations, the emotional significance of the surgical result relative to the cancer treatment history, and the social context of recovery (Pusic et al., 2009; Fingeret et al., 2016). These dimensions are not currently incorporated into standard recovery metrics used in anesthetic comparison studies.
 
@@ -73,7 +73,7 @@ The consequence, as discussed in published ERAS literature, is that patients who
 
 ### 2.3 Expectation and Perception
 
-Published perioperative psychology literature identifies the alignment between patient expectations and actual recovery experience as an independent determinant of recovery satisfaction, distinct from objective outcome quality (Keurentjes et al., 2013; Uitterhoeve et al., 2009). Patients whose recovery experiences diverge significantly from prior expectations — whether worse than anticipated or unexpectedly different in character — report lower satisfaction and more difficult subjective recovery regardless of objective outcome metrics.
+Published literature from adjacent surgical and patient-experience contexts suggests that alignment between patient expectations and actual recovery experience may influence recovery satisfaction, distinct from objective outcome quality (Keurentjes et al., 2013; Uitterhoeve et al., 2009). Patients whose recovery experiences diverge significantly from prior expectations — whether worse than anticipated or unexpectedly different in character — report lower satisfaction and more difficult subjective recovery regardless of objective outcome metrics.
 
 In the breast reconstruction revision setting, where patients have often undergone prior surgical procedures and carry established expectations from prior recovery experiences, expectation-experience alignment may be a particularly relevant dimension of recovery quality. Published literature does not consistently address how expectation management before revision surgery affects recovery experience, representing another gap in the published evidence base.
 
@@ -83,7 +83,7 @@ In the breast reconstruction revision setting, where patients have often undergo
 
 ### 3.1 Patient-Level Variability
 
-Published perioperative literature consistently documents substantial inter-individual variability in recovery trajectories following breast reconstruction procedures, even among patients with similar clinical profiles, procedures, and analgesic approaches (Bowyer et al., 2014). This variability is attributed in published research to a combination of physiological factors (analgesic sensitivity, opioid metabolism, baseline comorbidities), psychological factors (anxiety, prior pain experience, catastrophizing), and social factors (home support, caregiver availability, occupational demands).
+Published perioperative literature consistently documents substantial inter-individual variability in recovery trajectories following breast reconstruction procedures, even among patients with similar clinical profiles, procedures, and analgesic approaches (Bowyer et al., 2014). Published perioperative literature discusses this variability in relation to a combination of physiological factors (analgesic sensitivity, opioid metabolism, baseline comorbidities), psychological factors (anxiety, prior pain experience, catastrophizing), and social factors (home support, caregiver availability, occupational demands).
 
 The implication for outcome interpretation is that population-level recovery metrics — the average pain score, the median time to discharge readiness — may inadequately characterize the distribution of recovery experiences across individual patients, including those at the tails of the distribution who recover unusually quickly or with unusual difficulty.
 
@@ -131,14 +131,16 @@ This analysis has examined that gap as a conceptual problem in the published lit
 
 ## References
 
-- Aaronson NK et al. The European Organization for Research and Treatment of Cancer QLQ-C30. *Journal of the National Cancer Institute*. 1993.
-- Bowyer AJ et al. A review of the scope and measurement of postoperative quality of recovery. *Anaesthesia*. 2014;69(11):1266–1278.
-- Fingeret MC et al. Body image and quality of life of breast cancer patients: influence of timing and stage of breast reconstruction. *Psycho-Oncology*. 2016;25(9):1106–1112.
-- Kehlet H, Wilmore DW. Evidence-based surgical care and the evolution of fast-track surgery. *Annals of Surgery*. 2008.
-- Ljungqvist O et al. Enhanced recovery after surgery: a review. *JAMA Surgery*. 2017.
+- Aaronson NK, Ahmedzai S, Bergman B, et al. The European Organization for Research and Treatment of Cancer QLQ-C30: a quality-of-life instrument for use in international clinical trials in oncology. *Journal of the National Cancer Institute.* 1993;85(5):365–376. doi:10.1093/jnci/85.5.365
+- Keurentjes JC, Söderqvist A, Weidenhielm L, Eskelinen A, Skyttä ET. Preoperative prediction of patient-relevant outcome after total hip arthroplasty: comparison of prediction instruments for use in shared decision making. *Journal of Bone and Joint Surgery (British).* 2013;95-B(2):196–202. doi:10.1302/0301-620X.95B2.30123
+- Uitterhoeve RJ, Bensing JM, Grol RP, Demulder PHM, van Achterberg T. The effect of communication skills training on patient outcomes in cancer care: a systematic review of the literature. *European Journal of Cancer Care.* 2009;19(4):442–457. doi:10.1111/j.1365-2354.2009.01082.x
+- Bowyer AJ, Jakobsson J, Ljungqvist O, Royse C. A review of the scope and measurement of postoperative quality of recovery. *Anaesthesia.* 2014;69(11):1266–1278. doi:10.1111/anae.12730
+- Fingeret MC, Zhong L, Vercellino L, et al. Body image and quality of life of breast cancer patients: influence of timing and stage of breast reconstruction. *Psycho-Oncology.* 2016;25(9):1106–1112. doi:10.1002/pon.3952
+- Kehlet H, Wilmore DW. Evidence-based surgical care and the evolution of fast-track surgery. *Annals of Surgery.* 2008;248(2):189–198. doi:10.1097/SLA.0b013e31817f2c1a
+- Ljungqvist O, Scott M, Fearon KC. Enhanced recovery after surgery: a review. *JAMA Surgery.* 2017;152(3):292–298. doi:10.1001/jamasurg.2016.4952
 - Myles PS, Hunt JO, Nightingale CE, et al. Development and psychometric testing of a quality of recovery score after general anesthesia and surgery in adults. *Anesthesia & Analgesia.* 1999;88(1):83–90. doi:10.1097/00000539-199901000-00015
-- Pusic AL et al. Development of a new patient-reported outcome measure for breast surgery: the BREAST-Q. *Plastic and Reconstructive Surgery*. 2009.
-- Stark PA, Myles PS, Burke JA. Development and psychometric evaluation of a postoperative quality of recovery score: the QoR-15. *Anesthesiology*. 2013;118(6):1332-1340.
+- Pusic AL, Klassen AF, Scott AM, Klok JA, Cordeiro PG, Cano SJ. Development of a new patient-reported outcome measure for breast surgery: the BREAST-Q. *Plastic and Reconstructive Surgery.* 2009;124(2):345–353. doi:10.1097/PRS.0b013e3181aee807
+- Stark PA, Myles PS, Burke JA. Development and psychometric evaluation of a postoperative quality of recovery score: the QoR-15. *Anesthesiology.* 2013;118(6):1332–1340. doi:10.1097/ALN.0b013e318289b84b
 
 ---
 

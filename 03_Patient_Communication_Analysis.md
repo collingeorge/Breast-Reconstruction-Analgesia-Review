@@ -2,7 +2,7 @@
 
 **Collin B. George, BS**
 Independent Literature Review
-Version 1.1 — December 2025
+Version 1.2 — March 2026
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 ---
@@ -70,22 +70,22 @@ The implication for perioperative communication, as discussed in published liter
 
 Shared decision-making (SDM) is a model of clinical communication in which clinicians and patients collaboratively engage with clinical evidence, patient preferences, and contextual values to arrive at care decisions (Barry & Edgman-Levitan, 2012; Elwyn et al., 2012). Published SDM literature distinguishes it from both paternalistic decision-making (clinician decides) and uninformed patient autonomy (patient decides without adequate support).
 
-In the perioperative anesthesia context, SDM is relevant to decisions about analgesic approach, regional anesthesia acceptance, opioid preference, and postoperative pain management planning. Published literature suggests that patients vary substantially in their preferences across these dimensions — some prioritizing PONV avoidance, others prioritizing needle minimization, others prioritizing opioid avoidance for personal or historical reasons — and that these preferences are clinically relevant to analgesic approach selection (Gan et al., 2020; Apfel et al., 1999).
+In the perioperative anesthesia context, SDM is relevant to decisions about analgesic approach, regional anesthesia acceptance, opioid preference, and postoperative pain management planning. Published literature suggests that patient priorities in this setting may differ — including concern about PONV risk (Gan et al., 2020; Apfel et al., 1999), needle exposure, opioid avoidance, and sedation burden — and that these factors may influence perioperative decision discussions.
 
 ### 2.2 Disclosure of Uncertainty
 
-A consistent theme in the patient communication literature is the importance of honest disclosure of uncertainty in clinical decision-making (Politi et al., 2007). In perioperative anesthesia counseling, relevant uncertainties include:
+A consistent theme in the patient communication literature is the importance of honest disclosure of uncertainty in clinical decision-making (Politi et al., 2007). Han et al. (Journal of General Internal Medicine, 2011) provide a conceptual taxonomy of uncertainty types in health care — distinguishing uncertainty arising from limited scientific knowledge, from complexity of individual application, and from personal values — that is relevant to the perioperative disclosure context. In perioperative anesthesia counseling, relevant uncertainties include:
 
 - individual variation in analgesic response
 - the probability of block success or partial coverage
 - the likelihood that opioid rescue will be needed even in opioid-sparing approaches
 - the variability of recovery experience across patients with similar clinical profiles
 
-Published literature on risk communication suggests that patients generally prefer honest acknowledgment of uncertainty over false reassurance, and that disclosure of uncertainty does not systematically undermine patient confidence or consent willingness when communicated with clarity and relational attentiveness (Politi et al., 2007).
+Published literature on risk communication suggests that uncertainty can be communicated without necessarily undermining patient engagement, though effects depend on framing, context, and patient-specific factors (Politi et al., 2007).
 
 ### 2.3 Eliciting Patient Preferences
 
-The literature on patient-centered communication describes preference elicitation — the structured effort to understand what matters most to a patient in a given decision — as a distinct communication skill that is often underpracticed in busy clinical settings (Sepucha et al., 2004). In anesthesia counseling contexts, patient preference dimensions commonly discussed in the perioperative literature include nausea aversion, needle-related anxiety, opioid avoidance, and concerns about postoperative sedation — all of which may influence analgesic approach discussions between patients and their care teams.
+The literature on patient-centered communication describes preference elicitation — the structured effort to understand what matters most to a patient in a given decision — as a distinct communication skill that is often underpracticed in busy clinical settings (Sepucha et al., 2004). In anesthesia counseling contexts, relevant patient preference dimensions may include nausea aversion, needle-related anxiety, opioid avoidance, and concerns about postoperative sedation — all of which may influence analgesic approach discussions between patients and their care teams.
 
 These preference dimensions are not equivalent across patients and do not map cleanly onto clinical risk stratification. Published literature notes that clinician assumptions about patient preferences are frequently inaccurate, which reinforces the importance of direct preference elicitation as part of the counseling encounter (Mulley et al., 2012).
 
@@ -169,30 +169,29 @@ This analysis has examined those communication challenges as described in publis
 
 - Agency for Healthcare Research and Quality. Health literacy universal precautions toolkit. 2020.
 - Fingeret MC et al. Body image and quality of life of breast cancer patients: influence of timing and stage of breast reconstruction. *Psycho-Oncology*. 2016;25(9):1106–1112.
-- American Society of Anesthesiologists. Guidelines for the ethical practice of anesthesiology. Last amended October 2020. Available at: asahq.org.
-- Apfel CC et al. A simplified risk score for predicting postoperative nausea and vomiting. *Anesthesiology*. 1999.
-- Barry MJ, Edgman-Levitan S. Shared decision making — the pinnacle of patient-centered care. *NEJM*. 2012.
+- American Society of Anesthesiologists. Guidelines for the Ethical Practice of Anesthesiology. Last amended October 2020. Available at: https://www.asahq.org/standards-and-practice-parameters
+- Apfel CC, Läärä E, Koivuranta M, Greim CA, Roewer N. A simplified risk score for predicting postoperative nausea and vomiting. *Anesthesiology.* 1999;91(3):693–700. doi:10.1097/00000542-199909000-00022
+- Barry MJ, Edgman-Levitan S. Shared decision making — the pinnacle of patient-centered care. *New England Journal of Medicine.* 2012;366(9):780–781. doi:10.1056/NEJMp1109283
 - Beauchamp TL, Childress JF. *Principles of Biomedical Ethics*. 8th ed. Oxford University Press. 2019.
-- Berkman ND et al. Health literacy interventions and outcomes. *Evidence Report, AHRQ*. 2011.
-- Braddock CH et al. Informed decision making in outpatient practice. *JAMA*. 1999.
-- Cohn ES, Larson E. Improving participant comprehension in the informed consent process. *Journal of Nursing Scholarship*. 2007.
+- Berkman ND, Sheridan SL, Donahue KE, et al. Health literacy interventions and outcomes: an updated systematic review. Evidence Report/Technology Assessment No. 199. AHRQ; 2011.
+- Braddock CH, Edwards KA, Hasenberg NM, Laidley TL, Levinson W. Informed decision making in outpatient practice: time to get back to basics. *JAMA.* 1999;282(24):2313–2320. doi:10.1001/jama.282.24.2313
+- Cohn ES, Larson E. Improving participant comprehension in the informed consent process. *Journal of Nursing Scholarship.* 2007;39(3):273–280. doi:10.1111/j.1547-5069.2007.00180.x
 - Eltorai AEM et al. Readability of patient education materials from the American Society of Anesthesiologists. *Journal of Clinical Anesthesia*. 2014.
-- Elwyn G et al. Shared decision making: a model for clinical practice. *Journal of General Internal Medicine*. 2012.
+- Elwyn G, Frosch D, Thomson R, et al. Shared decision making: a model for clinical practice. *Journal of General Internal Medicine.* 2012;27(10):1361–1367. doi:10.1007/s11606-012-2077-6
 - Faden RR, Beauchamp TL. *A History and Theory of Informed Consent*. Oxford University Press. 1986.
-- Fink AS et al. Enhancement of surgical informed consent by addition of repeat back. *Annals of Surgery*. 2010.
-- Gan TJ et al. Fourth consensus guidelines for PONV management. *Anesthesia & Analgesia*. 2020.
-- Han PKJ et al. Varieties of uncertainty in health care. *Journal of General Internal Medicine*. 2011.
+- Fink AS, Prochazka AV, Henderson WG, et al. Enhancement of surgical informed consent by addition of repeat back: a multicenter, randomized controlled clinical trial. *Annals of Surgery.* 2010;252(1):27–36. doi:10.1097/SLA.0b013e3181e3ec61
+- Gan TJ, Belani KG, Bergese S, et al. Fourth consensus guidelines for the management of postoperative nausea and vomiting. *Anesthesia & Analgesia.* 2020;131(2):411–448. doi:10.1213/ANE.0000000000004833
+- Han PKJ, Klein WMP, Arora NK. Varieties of uncertainty in health care: a conceptual taxonomy. *Journal of General Internal Medicine.* 2011;26(7):828–834. doi:10.1007/s11606-011-1641-y
 - Institute of Medicine. *Health Literacy: A Prescription to End Confusion*. National Academies Press. 2004.
-- Mulley AG et al. Stop the silent misdiagnosis: patients' preferences matter. *BMJ*. 2012.
-- Paasche-Orlow MK et al. Readability standards for informed-consent forms. *NEJM*. 2003.
+- Mulley AG, Trimble C, Elwyn G. Stop the silent misdiagnosis: patients' preferences matter. *BMJ.* 2012;345:e6572. doi:10.1136/bmj.e6572
+- Paasche-Orlow MK, Taylor HA, Brancati FL. Readability standards for informed-consent forms as compared with actual readability. *New England Journal of Medicine.* 2003;348(8):721–726. doi:10.1056/NEJMsa021212
 - Politi MC, Han PKJ, Col NF. Communicating the uncertainty of harms and benefits of medical interventions. *Medical Decision Making.* 2007;27(5):681-695. doi:10.1177/0272989X07307270
 - Politi MC, Légaré F. Physicians' reactions to uncertainty in the context of shared decision making. *Patient Education and Counseling.* 2010;80(2):155-157. doi:10.1016/j.pec.2009.10.030
-- Pusic AL et al. Development of a new patient-reported outcome measure for breast surgery. *Plastic and Reconstructive Surgery*. 2009.
-- Sepucha KR et al. Policy support for patient-centered care. *Health Affairs*. 2004.
-- Shevde K, Panagopoulos G. A survey of 800 patients' knowledge, attitudes, and concerns regarding anesthesia. *Anesthesia & Analgesia*. 1991.
-- Stacey D et al. Decision aids for people facing health treatment or screening decisions. *Cochrane Database*. 2017.
+- Pusic AL, Klassen AF, Scott AM, Klok JA, Cordeiro PG, Cano SJ. Development of a new patient-reported outcome measure for breast surgery: the BREAST-Q. *Plastic and Reconstructive Surgery.* 2009;124(2):345–353. doi:10.1097/PRS.0b013e3181aee807
+- Sepucha KR, Fowler FJ, Mulley AG. Policy support for patient-centered care: the need for measurable improvements in decision quality. *Health Affairs.* 2004;Suppl Variation:VAR54–62. doi:10.1377/hlthaff.var.54
+- Shevde K, Panagopoulos G. A survey of 800 patients' knowledge, attitudes, and concerns regarding anesthesia. *Anesthesia & Analgesia.* 1991;73(2):190–198. doi:10.1213/00000539-199108000-00014
+- Stacey D, Légaré F, Lewis K, et al. Decision aids for people facing health treatment or screening decisions. *Cochrane Database of Systematic Reviews.* 2017;(4):CD001431. doi:10.1002/14651858.CD001431.pub5
 - Weiss BD. *Health Literacy and Patient Safety: Help Patients Understand*. AMA Foundation. 2007.
-- White PF et al. The changing role of non-opioid analgesic techniques in the management of postoperative pain. *Anesthesia & Analgesia*. 2007.
 
 ---
 
