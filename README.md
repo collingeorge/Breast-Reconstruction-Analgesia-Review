@@ -12,6 +12,10 @@ Perioperative Analgesic Strategy in Breast Reconstruction Surgery: A Narrative L
 
 ---
 
+## Review status
+
+This remains a narrative literature-review draft. This revision checks framing and selected safety issues; it does not independently certify every citation, extraction, or statement of reference verification. Implant revision, primary oncologic surgery, augmentation, and autologous reconstruction remain distinct evidence populations. See [PUBLICATION_REVIEW.md](PUBLICATION_REVIEW.md).
+
 ## Overview
 
 This repository contains a narrative literature review of perioperative analgesia in breast reconstruction surgery, with an evidence-gap analysis for breast implant revision, plus three companion narrative reviews that examine the same setting from distinct analytical perspectives: analgesic strategy, patient communication, and recovery measurement.
@@ -89,7 +93,7 @@ It is not intended for patient care, clinical decision-making, institutional imp
 
 The documents draw on published literature including the ERAS Society consensus review for breast reconstruction, the PROSPECT guideline for oncological breast surgery, the SAMBA practice advisory on pectoralis blocks, ASRA Pain Medicine guidance on local anesthetic systemic toxicity and antithrombotic therapy, consensus PONV guidelines, randomized trials and meta-analyses on regional techniques and opioid-sparing adjuncts, health literacy and shared decision-making research, and perioperative recovery measurement research.
 
-All references were re-verified against PubMed or CrossRef in October 2026. Full references with PMIDs and DOIs are provided in [`06_References.md`](06_References.md).
+Reference identifiers are provided for audit; this release-preparation pass does not establish that every citation and supporting claim has been re-verified. Full references with PMIDs and DOIs are provided in [`06_References.md`](06_References.md).
 
 ---
 
