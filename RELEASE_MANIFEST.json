@@ -1,5 +1,5 @@
 {
-  "candidate": "2026.10-rc1",
+  "candidate": "2026.10-rc2",
   "public_release": false,
   "history_included": false,
   "history_audited": false,
@@ -8,33 +8,33 @@
   "files": [
     {
       "path": "02_Comparative_Educational_Review.md",
-      "bytes": 25895,
-      "sha256": "24db4805939024ee4ea7f789acd89f9cc27a3c6ba213e315e39e52b4e2ee369a"
+      "bytes": 26611,
+      "sha256": "b612699e60c9309c0b570c729de32d3cb9fdfb1a40fbc9488ee7035ba8e7c219"
     },
     {
       "path": "03_Patient_Communication_Analysis.md",
-      "bytes": 22659,
-      "sha256": "3dde8ab58d64bd7925d51b8605c67082486d24f4b731cf988808dfa6f48a26ac"
+      "bytes": 23323,
+      "sha256": "d76896f070168781a000206e27116d9a382e89e41704bd4ad6fdf7713bb03077"
     },
     {
       "path": "04_Postoperative_Recovery_Considerations.md",
-      "bytes": 17992,
-      "sha256": "1c429a7f99f0881fc2f91e7e0c6d639a8f65d34374c9467b8f17eef212392c08"
+      "bytes": 18746,
+      "sha256": "f10009c7ebcedf5df59fc370f9725f55b83470dd9e868e678fe5636afaf392ed"
     },
     {
       "path": "06_References.md",
-      "bytes": 16434,
-      "sha256": "ec9539f85139530e70ef59c4df89e08a3e522bd9c607bbec46dcd31a2501f263"
+      "bytes": 17403,
+      "sha256": "b3fcf07596c26435e61975a557b2408e21f7c7111b0d62264e534b086ace4f33"
     },
     {
       "path": "CITATION.cff",
       "bytes": 526,
-      "sha256": "8c0317e7f51693a22be2326f67d4aff79470660c7e590e17ccb7dc52b1df452d"
+      "sha256": "a29935cddeffd8e388a5efe6ff9ec8a9aaed189477341a1320a19178bf07f007"
     },
     {
       "path": "George-BreastRecon-Review-v8.md",
-      "bytes": 73031,
-      "sha256": "26e6ab8ec49cc5b23858cf82688ad854b096904e759866b82d18a1400f14575a"
+      "bytes": 74226,
+      "sha256": "484060975424c453e19fad7171184a48236c937c0bd38c4900dc0411fb94dc23"
     },
     {
       "path": "LICENSE",
@@ -42,19 +42,39 @@
       "sha256": "3cff795b2569866bdc491da3ac03f90b18ee9c5ae6d9708aa2ae7ec32b204370"
     },
     {
+      "path": "PROVENANCE.md",
+      "bytes": 1418,
+      "sha256": "e8d321b9ad4f01b4a53b25d5310b57b9c4d2aa14c28bc340a00fb8acfdb5a264"
+    },
+    {
       "path": "PUBLICATION_REVIEW.md",
-      "bytes": 2361,
-      "sha256": "a56f57cb1190c9d2bdbd94c258f4ff5a809c899eb5e6bb0174ae79e1fba1f07f"
+      "bytes": 2570,
+      "sha256": "1675a87385af597a78d6d5914176c1d7041d4239ae1887b8fd47b5f5f854d0f7"
     },
     {
       "path": "README.md",
-      "bytes": 8050,
-      "sha256": "33ac294c53cb6a9797b60e6db6cc928c0ce7af268fb6ea8071f963073adedfca"
+      "bytes": 8804,
+      "sha256": "b008a5761dd204106a3562120049b947b96816e0d0327d42eca355edd98c192c"
+    },
+    {
+      "path": "reference-identity-audit.json",
+      "bytes": 28714,
+      "sha256": "23ee54e7868d9c9d3a8638c5acbe8fabdd109c915dcc515da1f029e15fcb8608"
+    },
+    {
+      "path": "REFERENCE_AUDIT.md",
+      "bytes": 2426,
+      "sha256": "659b9af8a59e9bc44f927bf642e3005cba720131bcd4f6a2759ab49111952521"
     },
     {
       "path": "RELEASE_NOTES.md",
-      "bytes": 543,
-      "sha256": "0d64afed23e1e1744cc562a777471fb43feb113c97d6ac5d6900615d62fc4bd2"
+      "bytes": 610,
+      "sha256": "01f827257e76caabbc7bacfcd4ce085780b0dfe289a74058d2f1be760194423f"
+    },
+    {
+      "path": "search-audit-2026-10-27.json",
+      "bytes": 5597,
+      "sha256": "c47855b1a5fd9e84154770ee01128a35329b271693bd54d37f7cdd1e4dae4384"
     }
   ]
 }
