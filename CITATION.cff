@@ -5,7 +5,7 @@ authors:
   - family-names: George
     given-names: Collin B.
     orcid: "https://orcid.org/0009-0007-8162-6839"
-version: "2026.10-rc1"
+version: "2026.10-rc2"
 license: "CC-BY-4.0"
 url: "https://github.com/collingeorge/Breast-Reconstruction-Analgesia-Review"
 repository-code: "https://github.com/collingeorge/Breast-Reconstruction-Analgesia-Review"
