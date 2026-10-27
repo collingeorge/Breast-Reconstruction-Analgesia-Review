@@ -13,7 +13,7 @@ Narrative Literature Review — Version 2.0, October 2026
 
 This document is an independent educational literature synthesis prepared for academic portfolio purposes. It is not a clinical protocol, institutional guideline, order set, or decision-support tool. It does not constitute medical advice and is not intended to guide patient care, replace attending physician judgment, or function as a perioperative documentation template of any kind.
 
-All perioperative planning, anesthetic decision-making, medication selection, regional anesthesia technique, and postoperative management are the exclusive responsibility of licensed, credentialed attending anesthesiologists and surgeons operating within their institutional frameworks. The discussion below is observational and analytical in character. It describes themes, considerations, and frameworks reported in published literature. It does not rank, recommend, or endorse any specific approach for any specific patient.
+All perioperative planning, anesthetic decision-making, medication selection, regional anesthesia technique, and postoperative management are the responsibility of the appropriately qualified treating team, subject to applicable scope-of-practice and institutional requirements. The discussion below is observational and analytical in character. It describes themes, considerations, and frameworks reported in published literature. It does not rank, recommend, or endorse any specific approach for any specific patient.
 
 This document is not affiliated with, endorsed by, reviewed by, or issued on behalf of any healthcare, academic, or professional organization.
 
@@ -83,7 +83,7 @@ Published literature discusses several considerations relevant to regional anest
 
 Local anesthetic systemic toxicity (LAST) is a recognized risk with large-volume regional techniques. ASRA Pain Medicine's practice advisory and checklist on LAST prevention, recognition, and management serve as widely used reference frameworks for this topic, and include lipid emulsion resuscitation as part of preparedness (Neal et al., 2018; Neal et al., 2021).
 
-Bilateral procedures require attention to cumulative local anesthetic dosing. The literature discusses weight-based dosing principles and the importance of accounting for combined systemic and regional local anesthetic exposure when intravenous lidocaine infusions are used concurrently with fascial plane blocks, because both contribute to the total local anesthetic load (Neal et al., 2018). No doses are given in this document.
+Bilateral procedures require attention to cumulative local anesthetic exposure. Foo et al. (2021) advise against overlapping IV lidocaine with the period of action of other local-anesthetic interventions, including regional blocks. This is more restrictive than simply adding doses together. No combination regimen or timing instruction is supplied here; see [REFERENCE_AUDIT.md](REFERENCE_AUDIT.md).
 
 Patient-specific factors including coagulopathy, anticoagulation status, local infection, and anatomic variation are described in the literature as relevant to regional anesthesia eligibility, with ASRA Pain Medicine's antithrombotic guidelines serving as a primary reference framework (Horlocker et al., 2018).
 
@@ -240,3 +240,8 @@ Licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](http
 ---
 
 *Educational literature review only. Not intended for patient care, clinical decision-making, institutional implementation, or documentation use.*
+
+
+## Source/version update — 27 October 2026
+
+The 2020 PONV consensus and 2018 antithrombotic guideline are historical sources. A [fifth PONV consensus executive summary](https://pubmed.ncbi.nlm.nih.gov/41237407/) and [ASRA fifth-edition guideline](https://asra.com/guidelines-articles/guidelines) are now available. Their existence does not validate this portfolio as an implementation guide. [Foo et al. 2021](https://pubmed.ncbi.nlm.nih.gov/33141959/) provides specific IV-lidocaine safety cautions regarding other local-anesthetic interventions. Historical PROSPECT gabapentin recommendations should be read alongside [Verret et al. 2020](https://pubmed.ncbi.nlm.nih.gov/32667154/), rather than treated as an unconditional routine-use endorsement.

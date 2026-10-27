@@ -1,0 +1,144 @@
+[
+  {
+    "domain": "Analgesic modality",
+    "query": "(\"breast reconstruction\"[MeSH] OR \"breast implant\"[tiab] OR \"mammoplasty\"[MeSH]) AND (\"opioid-free anesthesia\"[tiab] OR \"opioid-sparing\"[tiab] OR \"TIVA\"[tiab] OR \"propofol\"[MeSH]) AND (\"pain, postoperative\"[MeSH] OR \"nausea and vomiting, postoperative\"[MeSH])",
+    "date": "2026-10-27",
+    "source": "NCBI ESearch",
+    "response": {
+      "header": {
+        "type": "esearch",
+        "version": "0.3"
+      },
+      "esearchresult": {
+        "count": "0",
+        "retmax": "0",
+        "retstart": "0",
+        "idlist": [],
+        "translationset": [],
+        "querytranslation": "(\"breast reconstruction\"[MeSH] OR \"breast implant\"[tiab] OR \"mammoplasty\"[MeSH]) AND (\"opioid-free anesthesia\"[tiab] OR \"opioid-sparing\"[tiab] OR \"TIVA\"[tiab] OR \"propofol\"[MeSH]) AND (\"pain, postoperative\"[MeSH] OR \"nausea and vomiting, postoperative\"[MeSH])",
+        "warninglist": {
+          "phrasesignored": [],
+          "quotedphrasesnotfound": [
+            "\"breast reconstruction\"[MeSH]",
+            "\"mammoplasty\"[MeSH]",
+            "\"pain, postoperative\"[MeSH]",
+            "\"nausea and vomiting, postoperative\"[MeSH]"
+          ],
+          "outputmessages": [
+            "No items found."
+          ]
+        }
+      }
+    }
+  },
+  {
+    "domain": "Regional analgesia",
+    "query": "(\"breast reconstruction\"[MeSH] OR \"breast surgery\"[tiab]) AND (\"pectoral nerve block\"[tiab] OR \"PECS\"[tiab] OR \"serratus anterior plane block\"[tiab] OR \"nerve block\"[MeSH])",
+    "date": "2026-10-27",
+    "source": "NCBI ESearch",
+    "response": {
+      "header": {
+        "type": "esearch",
+        "version": "0.3"
+      },
+      "esearchresult": {
+        "count": "387",
+        "retmax": "0",
+        "retstart": "0",
+        "idlist": [],
+        "translationset": [],
+        "querytranslation": "\"breast surgery\"[Title/Abstract] AND (\"pectoral nerve block\"[Title/Abstract] OR \"PECS\"[Title/Abstract] OR \"serratus anterior plane block\"[Title/Abstract] OR \"nerve block\"[MeSH Terms])",
+        "warninglist": {
+          "phrasesignored": [],
+          "quotedphrasesnotfound": [
+            "\"breast reconstruction\"[MeSH]"
+          ],
+          "outputmessages": []
+        }
+      }
+    }
+  },
+  {
+    "domain": "Adjunct medicines",
+    "query": "(\"breast reconstruction\"[MeSH] OR \"breast surgery\"[tiab]) AND (\"ketamine\"[MeSH] OR \"dexmedetomidine\"[MeSH] OR \"lidocaine\"[MeSH] OR \"magnesium\"[MeSH] OR \"dexamethasone\"[MeSH] OR \"acetaminophen\"[MeSH]) AND (\"pain management\"[MeSH] OR \"analgesics, opioid\"[MeSH])",
+    "date": "2026-10-27",
+    "source": "NCBI ESearch",
+    "response": {
+      "header": {
+        "type": "esearch",
+        "version": "0.3"
+      },
+      "esearchresult": {
+        "count": "18",
+        "retmax": "0",
+        "retstart": "0",
+        "idlist": [],
+        "translationset": [],
+        "querytranslation": "\"breast surgery\"[Title/Abstract] AND (\"ketamine\"[MeSH Terms] OR \"dexmedetomidine\"[MeSH Terms] OR \"lidocaine\"[MeSH Terms] OR \"magnesium\"[MeSH Terms] OR \"dexamethasone\"[MeSH Terms] OR \"acetaminophen\"[MeSH Terms]) AND (\"pain management\"[MeSH Terms] OR \"analgesics, opioid\"[MeSH Terms])",
+        "warninglist": {
+          "phrasesignored": [],
+          "quotedphrasesnotfound": [
+            "\"breast reconstruction\"[MeSH]"
+          ],
+          "outputmessages": []
+        }
+      }
+    }
+  },
+  {
+    "domain": "Communication",
+    "query": "(\"health literacy\"[MeSH] OR \"shared decision making\"[MeSH] OR \"informed consent\"[MeSH]) AND (\"anesthesia\"[MeSH] OR \"perioperative\"[tiab]) AND (\"comprehension\"[tiab] OR \"communication\"[tiab])",
+    "date": "2026-10-27",
+    "source": "NCBI ESearch",
+    "response": {
+      "header": {
+        "type": "esearch",
+        "version": "0.3"
+      },
+      "esearchresult": {
+        "count": "77",
+        "retmax": "0",
+        "retstart": "0",
+        "idlist": [],
+        "translationset": [],
+        "querytranslation": "(\"health literacy\"[MeSH Terms] OR \"informed consent\"[MeSH Terms]) AND (\"anesthesia\"[MeSH Terms] OR \"perioperative\"[Title/Abstract]) AND (\"comprehension\"[Title/Abstract] OR \"communication\"[Title/Abstract])",
+        "warninglist": {
+          "phrasesignored": [],
+          "quotedphrasesnotfound": [
+            "\"shared decision making\"[MeSH]"
+          ],
+          "outputmessages": []
+        }
+      }
+    }
+  },
+  {
+    "domain": "Outcome measurement",
+    "query": "(\"breast reconstruction\"[MeSH] OR \"breast surgery\"[tiab]) AND (\"quality of recovery\"[tiab] OR \"QoR-15\"[tiab] OR \"patient reported outcome\"[MeSH] OR \"postoperative nausea\"[MeSH] OR \"discharge readiness\"[tiab])",
+    "date": "2026-10-27",
+    "source": "NCBI ESearch",
+    "response": {
+      "header": {
+        "type": "esearch",
+        "version": "0.3"
+      },
+      "esearchresult": {
+        "count": "33",
+        "retmax": "0",
+        "retstart": "0",
+        "idlist": [],
+        "translationset": [],
+        "querytranslation": "\"breast surgery\"[Title/Abstract] AND (\"quality of recovery\"[Title/Abstract] OR \"QoR-15\"[Title/Abstract] OR \"discharge readiness\"[Title/Abstract])",
+        "warninglist": {
+          "phrasesignored": [],
+          "quotedphrasesnotfound": [
+            "\"breast reconstruction\"[MeSH]",
+            "\"patient reported outcome\"[MeSH]",
+            "\"postoperative nausea\"[MeSH]"
+          ],
+          "outputmessages": []
+        }
+      }
+    }
+  }
+]
