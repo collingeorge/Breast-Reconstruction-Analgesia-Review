@@ -1,0 +1,60 @@
+{
+  "candidate": "2026.10-rc1",
+  "public_release": false,
+  "history_included": false,
+  "history_audited": false,
+  "secret_scan_scope": "Listed current files only; three high-confidence patterns. Not a full credential, PHI, copyright, or clinical audit.",
+  "findings": [],
+  "files": [
+    {
+      "path": "02_Comparative_Educational_Review.md",
+      "bytes": 25895,
+      "sha256": "24db4805939024ee4ea7f789acd89f9cc27a3c6ba213e315e39e52b4e2ee369a"
+    },
+    {
+      "path": "03_Patient_Communication_Analysis.md",
+      "bytes": 22659,
+      "sha256": "3dde8ab58d64bd7925d51b8605c67082486d24f4b731cf988808dfa6f48a26ac"
+    },
+    {
+      "path": "04_Postoperative_Recovery_Considerations.md",
+      "bytes": 17992,
+      "sha256": "1c429a7f99f0881fc2f91e7e0c6d639a8f65d34374c9467b8f17eef212392c08"
+    },
+    {
+      "path": "06_References.md",
+      "bytes": 16434,
+      "sha256": "ec9539f85139530e70ef59c4df89e08a3e522bd9c607bbec46dcd31a2501f263"
+    },
+    {
+      "path": "CITATION.cff",
+      "bytes": 526,
+      "sha256": "8c0317e7f51693a22be2326f67d4aff79470660c7e590e17ccb7dc52b1df452d"
+    },
+    {
+      "path": "George-BreastRecon-Review-v8.md",
+      "bytes": 73031,
+      "sha256": "26e6ab8ec49cc5b23858cf82688ad854b096904e759866b82d18a1400f14575a"
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 880,
+      "sha256": "3cff795b2569866bdc491da3ac03f90b18ee9c5ae6d9708aa2ae7ec32b204370"
+    },
+    {
+      "path": "PUBLICATION_REVIEW.md",
+      "bytes": 2361,
+      "sha256": "a56f57cb1190c9d2bdbd94c258f4ff5a809c899eb5e6bb0174ae79e1fba1f07f"
+    },
+    {
+      "path": "README.md",
+      "bytes": 8050,
+      "sha256": "33ac294c53cb6a9797b60e6db6cc928c0ce7af268fb6ea8071f963073adedfca"
+    },
+    {
+      "path": "RELEASE_NOTES.md",
+      "bytes": 543,
+      "sha256": "0d64afed23e1e1744cc562a777471fb43feb113c97d6ac5d6900615d62fc4bd2"
+    }
+  ]
+}

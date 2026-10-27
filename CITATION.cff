@@ -1,34 +1,11 @@
 cff-version: 1.2.0
-title: "Perioperative Analgesic Strategy in Breast Reconstruction Surgery: A Narrative Literature Review with Evidence-Gap Analysis for Breast Implant Revision"
-message: "If you use this repository, please cite it using the information below."
+message: "Review candidate; not a peer-reviewed or clinically validated publication. Cite the version actually used."
+title: "Breast Reconstruction Analgesia: Narrative Review Draft"
 authors:
   - family-names: George
     given-names: Collin B.
     orcid: "https://orcid.org/0009-0007-8162-6839"
-version: "2.0"
-date-released: "2026-10-26"
+version: "2026.10-rc1"
 license: "CC-BY-4.0"
+url: "https://github.com/collingeorge/Breast-Reconstruction-Analgesia-Review"
 repository-code: "https://github.com/collingeorge/Breast-Reconstruction-Analgesia-Review"
-abstract: "Educational narrative literature review (not a systematic review) of perioperative analgesic strategy in breast reconstruction surgery across five decision domains, with an evidence-gap analysis for breast implant revision. Not medical advice and not for clinical use."
-keywords:
-  - narrative review
-  - perioperative medicine
-  - multimodal analgesia
-  - breast reconstruction
-  - regional anesthesia
-  - patient communication
-  - postoperative recovery
-  - health literacy
-  - shared decision-making
-  - opioid-sparing anesthesia
-preferred-citation:
-  type: generic
-  authors:
-    - family-names: George
-      given-names: Collin B.
-      orcid: "https://orcid.org/0009-0007-8162-6839"
-  title: "Perioperative Analgesic Strategy in Breast Reconstruction Surgery: A Narrative Literature Review with Evidence-Gap Analysis for Breast Implant Revision"
-  version: "2.0"
-  year: 2026
-  month: 10
-  url: "https://github.com/collingeorge/Breast-Reconstruction-Analgesia-Review"
