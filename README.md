@@ -12,6 +12,10 @@ Perioperative Analgesic Strategy in Breast Reconstruction Surgery: A Narrative L
 
 ---
 
+## Review status
+
+This remains a narrative literature-review draft. This revision checks framing and selected safety issues; it does not independently certify every citation, extraction, or statement of reference verification. Implant revision, primary oncologic surgery, augmentation, and autologous reconstruction remain distinct evidence populations. See [PUBLICATION_REVIEW.md](PUBLICATION_REVIEW.md).
+
 ## Overview
 
 This repository contains a narrative literature review of perioperative analgesia in breast reconstruction surgery, with an evidence-gap analysis for breast implant revision, plus three companion narrative reviews that examine the same setting from distinct analytical perspectives: analgesic strategy, patient communication, and recovery measurement.
