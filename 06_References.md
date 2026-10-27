@@ -2,7 +2,7 @@
 
 This is the single master reference list for the repository. It covers every source cited in `George-BreastRecon-Review-v8.md` (the manuscript) and in `02_Comparative_Educational_Review.md`, `03_Patient_Communication_Analysis.md`, and `04_Postoperative_Recovery_Considerations.md`. The documents cite sources by author and year; the numbers below are shared by all documents.
 
-Formatting follows a modified AMA style. Entries are listed alphabetically by first author. Every entry was checked against PubMed (E-utilities) or CrossRef in October 2026: title, first author, journal, year, and volume/pages were matched to the identifier shown. The "Cited in" note lists the documents that cite each source (M = manuscript; 02, 03, 04 = component documents).
+Formatting follows a modified AMA style. Entries are listed alphabetically by first author. On 27 October 2026, NCBI ESummary metadata were retrieved for all 58 PMID-bearing entries and DOI identities matched case-insensitively. The National Academies record confirmed the remaining book identifier. Available PubMed abstracts were read for claim/population checks; entries without abstracts and claims beyond abstracts are not thereby full-text verified. See REFERENCE_AUDIT.md. The "Cited in" note lists the documents that cite each source (M = manuscript; 02, 03, 04 = component documents).
 
 Version 2.0 — October 2026
 
@@ -139,3 +139,8 @@ This reference list is part of an independent scholarly work. It is not affiliat
 Licensed under Creative Commons Attribution 4.0 International (CC BY 4.0).
 
 © 2025–2026 Collin B. George — https://github.com/collingeorge/Breast-Reconstruction-Analgesia-Review
+
+
+## Source/version update — 27 October 2026
+
+The 2020 PONV consensus and 2018 antithrombotic guideline are historical sources. A [fifth PONV consensus executive summary](https://pubmed.ncbi.nlm.nih.gov/41237407/) and [ASRA fifth-edition guideline](https://asra.com/guidelines-articles/guidelines) are now available. Their existence does not validate this portfolio as an implementation guide. [Foo et al. 2021](https://pubmed.ncbi.nlm.nih.gov/33141959/) provides specific IV-lidocaine safety cautions regarding other local-anesthetic interventions. Historical PROSPECT gabapentin recommendations should be read alongside [Verret et al. 2020](https://pubmed.ncbi.nlm.nih.gov/32667154/), rather than treated as an unconditional routine-use endorsement.
