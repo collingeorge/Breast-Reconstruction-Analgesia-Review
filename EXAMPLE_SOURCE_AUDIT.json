@@ -1,0 +1,174 @@
+{
+  "date": "2026-10-28",
+  "case_pairs": 7,
+  "synthetic_profiles": 14,
+  "sources": [
+    {
+      "id": "ERAS",
+      "title": "Temple-Oberle et al. Breast reconstruction ERAS consensus (2017)",
+      "doi": "10.1097/PRS.0000000000003242",
+      "scope": "Reconstruction pathway concepts; many elements use extrapolated evidence. Does not validate every implant-revision or male-patient plan.",
+      "checked": "Publisher/PubMed identity and available source text; not an exhaustive full-text appraisal"
+    },
+    {
+      "id": "B",
+      "title": "Joshi GP et al. 2026 ASA Practice Guideline on Perioperative Pain Management Using Local and Regional Analgesia for Cardiothoracic Surgeries, Mastectomy, and Abdominal Surgeries. *Anesthesiology*. [10.1097/ALN.0000000000005790](https://doi.org/10.1097/ALN.0000000000005790)",
+      "doi": "10.1097/ALN.0000000000005790",
+      "scope": "Procedure-specific local/regional adjunct recommendations; not sole-anesthetic selection",
+      "checked": "See ANESTHESIA_OPTIONS_AND_CASES.md for source title, scope and source-type mapping"
+    },
+    {
+      "id": "T",
+      "title": "Nimmo AF et al. Guidelines for the safe practice of total intravenous anaesthesia (TIVA). *Anaesthesia*. 2019. [10.1111/anae.14428](https://doi.org/10.1111/anae.14428)",
+      "doi": "10.1111/anae.14428",
+      "scope": "IV delivery and monitoring principles; no validation of Smart NOA",
+      "checked": "See ANESTHESIA_OPTIONS_AND_CASES.md for source title, scope and source-type mapping"
+    },
+    {
+      "id": "A",
+      "title": "Kopp SL et al. Regional anesthesia in the patient receiving antithrombotic or thrombolytic therapy, fifth edition. *Regional Anesthesia and Pain Medicine*. 2025. [10.1136/rapm-2024-105766](https://doi.org/10.1136/rapm-2024-105766)",
+      "doi": "10.1136/rapm-2024-105766",
+      "scope": "Drug/dose/route-specific bleeding-risk guidance; no individualized timing supplied here",
+      "checked": "See ANESTHESIA_OPTIONS_AND_CASES.md for source title, scope and source-type mapping"
+    },
+    {
+      "id": "BREAST",
+      "title": "Jacobs et al. PROSPECT oncological breast surgery (2020)",
+      "doi": "10.1111/anae.14964",
+      "scope": "Oncological surgery population; not universal implant revision, augmentation or autologous donor-site evidence.",
+      "checked": "Publisher/PubMed identity and available source text; not an exhaustive full-text appraisal"
+    },
+    {
+      "id": "X",
+      "title": "Neal JM, Neal EJ, Weinberg GL. ASRA Local Anesthetic Systemic Toxicity checklist: 2020 version. *Regional Anesthesia and Pain Medicine*. 2021. [10.1136/rapm-2020-101986](https://doi.org/10.1136/rapm-2020-101986)",
+      "doi": "10.1136/rapm-2020-101986",
+      "scope": "Published toxicity response resource, not reproduced or replaced by this guide",
+      "checked": "See ANESTHESIA_OPTIONS_AND_CASES.md for source title, scope and source-type mapping"
+    },
+    {
+      "id": "LIDO",
+      "title": "Foo et al. IV lidocaine consensus (2021)",
+      "doi": "10.1111/anae.15270",
+      "scope": "High-risk IV use, ideal-body-weight context and avoidance of overlapping local-anesthetic interventions; not a complete regimen.",
+      "checked": "Publisher/PubMed identity and available source text; not an exhaustive full-text appraisal"
+    },
+    {
+      "id": "P",
+      "title": "Beloeil H et al. Balanced Opioid-free Anesthesia with Dexmedetomidine versus Balanced Anesthesia with Remifentanil. *Anesthesiology*. 2021. [10.1097/ALN.0000000000003725](https://doi.org/10.1097/ALN.0000000000003725)",
+      "doi": "10.1097/ALN.0000000000003725",
+      "scope": "Randomized evidence against assuming universal safety benefit from avoiding intraoperative opioids; did not test this software",
+      "checked": "See ANESTHESIA_OPTIONS_AND_CASES.md for source title, scope and source-type mapping"
+    },
+    {
+      "id": "DEX",
+      "title": "Weerink et al. Dexmedetomidine pharmacology review (2017)",
+      "doi": "10.1007/s40262-017-0507-7",
+      "scope": "Dose contexts differ by indication; toy-model values are not validated by this review.",
+      "checked": "Publisher/PubMed identity and available source text; not an exhaustive full-text appraisal"
+    },
+    {
+      "id": "KET",
+      "title": "Schwenk et al. Acute-pain ketamine consensus (2018)",
+      "doi": "10.1097/AAP.0000000000000806",
+      "scope": "Acute-pain adjunct context, not hypnosis or universal induction guidance.",
+      "checked": "Publisher/PubMed identity and available source text; not an exhaustive full-text appraisal"
+    },
+    {
+      "id": "N",
+      "title": "ASA Task Force. 2023 Practice Guidelines for Monitoring and Antagonism of Neuromuscular Blockade. *Anesthesiology*. [10.1097/ALN.0000000000004379](https://doi.org/10.1097/ALN.0000000000004379)",
+      "doi": "10.1097/ALN.0000000000004379",
+      "scope": "Quantitative monitoring and antagonist selection",
+      "checked": "See ANESTHESIA_OPTIONS_AND_CASES.md for source title, scope and source-type mapping"
+    },
+    {
+      "id": "S",
+      "title": "ASA and collaborating societies. Practice Guidelines for Moderate Procedural Sedation and Analgesia 2018. *Anesthesiology*. [10.1097/ALN.0000000000002043](https://doi.org/10.1097/ALN.0000000000002043)",
+      "doi": "10.1097/ALN.0000000000002043",
+      "scope": "Moderate-sedation assessment, monitoring and rescue context; not a deep-sedation recipe",
+      "checked": "See ANESTHESIA_OPTIONS_AND_CASES.md for source title, scope and source-type mapping"
+    },
+    {
+      "id": "QOR",
+      "title": "Stark et al. Development and psychometric evaluation of the QoR-15 (2013)",
+      "doi": "10.1097/ALN.0b013e318289b84b",
+      "scope": "Recovery is multidimensional; do not reproduce the questionnaire or interpret a synthetic score as validation.",
+      "checked": "Publisher/PubMed identity and available source text; not an exhaustive full-text appraisal"
+    },
+    {
+      "id": "M",
+      "title": "Klein AA et al. Recommendations for standards of monitoring during anaesthesia and recovery 2021. *Anaesthesia*. [10.1111/anae.15501](https://doi.org/10.1111/anae.15501)",
+      "doi": "10.1111/anae.15501",
+      "scope": "UK/Ireland monitoring guidance; jurisdiction and setting matter",
+      "checked": "See ANESTHESIA_OPTIONS_AND_CASES.md for source title, scope and source-type mapping"
+    }
+  ],
+  "cases": [
+    {
+      "id": "BR-01",
+      "topic": "Preoperative assessment and shared choice",
+      "sources": [
+        "ERAS",
+        "B",
+        "T",
+        "A"
+      ]
+    },
+    {
+      "id": "BR-02",
+      "topic": "Regional coverage and evidence transfer",
+      "sources": [
+        "BREAST",
+        "B",
+        "A",
+        "X"
+      ]
+    },
+    {
+      "id": "BR-03",
+      "topic": "IV lidocaine versus block/local-infiltration planning",
+      "sources": [
+        "LIDO",
+        "X"
+      ]
+    },
+    {
+      "id": "BR-04",
+      "topic": "Adjuncts and drug-purpose distinctions",
+      "sources": [
+        "P",
+        "DEX",
+        "KET"
+      ]
+    },
+    {
+      "id": "BR-05",
+      "topic": "Autologous reconstruction and donor-site pain",
+      "sources": [
+        "ERAS",
+        "B",
+        "X"
+      ]
+    },
+    {
+      "id": "BR-06",
+      "topic": "Counseling and patient understanding",
+      "sources": [
+        "ERAS",
+        "N",
+        "S"
+      ]
+    },
+    {
+      "id": "BR-07",
+      "topic": "Recovery assessment and handoff",
+      "sources": [
+        "QOR",
+        "ERAS",
+        "M"
+      ]
+    }
+  ],
+  "source_identity_checked": true,
+  "full_text_audit_complete": false,
+  "clinical_validation": false
+}
