@@ -18,6 +18,6 @@ An apparently valid DOI does not authenticate every sentence citing it. Exact st
 
 ## Records
 
-The candidate package includes breast-reference-identity-audit.json and breast-search-audit-2026-10-27.json. Raw abstracts are retained only in the private working review folder and are not republished in this repository.
+The candidate package includes [reference-identity-audit.json](reference-identity-audit.json) and [search-audit-2026-10-27.json](search-audit-2026-10-27.json). Raw abstracts are retained only in the private working review folder and are not republished in this repository.
 
 This narrative review remains an educational source analysis, not a systematic review, consent instrument, clinical protocol or legal opinion.

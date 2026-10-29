@@ -53,8 +53,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 9567,
-      "sha256": "beb7fb3c1de644a9e3e77f620a3163cc95c9cb755db5883a5a21f83b22b9e7c7"
+      "bytes": 9721,
+      "sha256": "7678529396dc59061bb93a23bfd5ca54c852d47bf5630f233d60d22921e3154b"
     },
     {
       "path": "reference-identity-audit.json",
@@ -63,13 +63,13 @@
     },
     {
       "path": "REFERENCE_AUDIT.md",
-      "bytes": 2426,
-      "sha256": "659b9af8a59e9bc44f927bf642e3005cba720131bcd4f6a2759ab49111952521"
+      "bytes": 2477,
+      "sha256": "4dcd0eaa59d17c6aed107e124da51e77ecfed05f65d1376cfdaec06cd623ce63"
     },
     {
       "path": "RELEASE_NOTES.md",
-      "bytes": 989,
-      "sha256": "c27383837a73b137ab5f26c22e15d190da7ef495f11eae675ae5ad98b324e6d2"
+      "bytes": 1346,
+      "sha256": "8fb5506c27de141b355c794aa67f746df3d01fd23ec91e70fdac551d22791ca0"
     },
     {
       "path": "search-audit-2026-10-27.json",
@@ -103,9 +103,23 @@
     },
     {
       "path": "EXAMPLES_MANIFEST.json",
-      "bytes": 1325,
-      "sha256": "fed3f3d228f18219f10a5456c0099aac49cf3c1fe9471eae8088af876512f891"
+      "bytes": 1924,
+      "sha256": "a3c5400037a737a55d3b7c793716c9c344c4fb02549c19e39eadcdb717df118f"
+    },
+    {
+      "path": "START_HERE.md",
+      "bytes": 1228,
+      "sha256": "64d1b52fc19a42b18faabc88e05766a9ecfd9b7f101dae3f91bec6e85c5d69be"
+    },
+    {
+      "path": "AUTHORSHIP_AND_REVIEW.md",
+      "bytes": 2311,
+      "sha256": "3f5251a7ff272b023a1206dbe8ad121c572c8ee4fe65053d0ad3f8e0eaafbf7b"
     }
   ],
-  "supplement": "clinical-applied-cases-2026-10-28"
+  "supplement": "clinical-applied-cases-2026-10-28",
+  "presentation_update": {
+    "date": "2026-10-29",
+    "scope": "Navigation, authorship and presentation; prior audit scopes are not expanded"
+  }
 }

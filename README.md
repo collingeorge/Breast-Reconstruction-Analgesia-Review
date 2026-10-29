@@ -1,5 +1,7 @@
 # Breast Reconstruction Analgesia Review
 
+[Reader’s guide](START_HERE.md) · [Authorship & review status](AUTHORSHIP_AND_REVIEW.md) · [Portfolio home](https://collingeorge.github.io/CM-2026/)
+
 
 ## Applied clinical examples — 28 October 2026
 
@@ -7,7 +9,7 @@
 - [Shared anesthesia options and cases](ANESTHESIA_OPTIONS_AND_CASES.md): the same four-modality guide and 12 general teaching cases used throughout the clinical portfolio.
 - [Example format and verification standard](CASE_EXAMPLE_STANDARD.md), [topic source audit](EXAMPLE_SOURCE_AUDIT.json), and [shared source audit](SHARED_SOURCE_AUDIT.json).
 
-These additions standardize educational reasoning and evidence documentation; they do not certify clinical correctness, guideline compliance or patient-care suitability. Existing manuscript/PDF content is retained.
+These additions use a consistent educational format and source documentation; they do not certify clinical correctness, guideline compliance or patient-care suitability. Existing manuscript/PDF content is retained.
 
 
 Perioperative Analgesic Strategy in Breast Reconstruction Surgery: A Narrative Literature Review with Evidence-Gap Analysis for Breast Implant Revision

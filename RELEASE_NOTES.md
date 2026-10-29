@@ -8,3 +8,8 @@ The candidate is not a clinical protocol, validated controller, systematic/scopi
 
 ## Applied example set — 28 October 2026
 Added 7 topic-specific male/female case pairs, a local copy of the shared anesthesia-options set, two levels of source mapping and an explicit verification standard. The profiles are entirely synthetic; the source checks are scoped and do not certify clinical validity. Existing clinical/manuscript text and PDF exports are preserved.
+
+
+## 29 October 2026 — Portfolio presentation and reading path
+
+Added a concise reader’s guide, explicit AI-assistance/authorship scope and review-status notes. Linked the portfolio home and corrected navigation wording. This presentation pass preserves substantive manuscripts, casebooks, code and existing exports. Repository visibility is unchanged.
