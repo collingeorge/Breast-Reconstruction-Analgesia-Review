@@ -1,10 +1,12 @@
 # References
 
-This is the single master reference list for the repository. It covers every source cited in `George-BreastRecon-Review-v8.md` (the manuscript) and in `02_Comparative_Educational_Review.md`, `03_Patient_Communication_Analysis.md`, and `04_Postoperative_Recovery_Considerations.md`. The documents cite sources by author and year; the numbers below are shared by all documents.
+> **Educational work by a pre-medical student — not medical advice.** Not a clinical protocol, prescription, or patient handout, and not for patient care. See [DISCLAIMER](DISCLAIMER.md).
+
+This is the single master reference list for the repository. It covers every source cited in `George-BreastRecon-Review-v8.md` (the manuscript) and in `02_Comparative_Educational_Review.md`, `03_Patient_Communication_Analysis.md`, and `04_Postoperative_Recovery_Considerations.md`. The documents cite sources by author and year; the numbers below are shared by all documents. Entries 60–66 were added in November 2026 (see the end of the list). Superseded guidance is marked *historical* and kept for context.
 
 Formatting follows a modified AMA style. Entries are listed alphabetically by first author. On 27 October 2026, NCBI ESummary metadata were retrieved for all 58 PMID-bearing entries and DOI identities matched case-insensitively. The National Academies record confirmed the remaining book identifier. Available PubMed abstracts were read for claim/population checks; entries without abstracts and claims beyond abstracts are not thereby full-text verified. See REFERENCE_AUDIT.md. The "Cited in" note lists the documents that cite each source (M = manuscript; 02, 03, 04 = component documents).
 
-Version 2.0 — October 2026
+Repository release 2026.11 (list created October 2026; entries 60–66 added November 2026)
 
 ---
 
@@ -58,17 +60,17 @@ Version 2.0 — October 2026
 
 25. Forsythe ME, Dunbar MJ, Hennigar AW, Sullivan MJ, Gross M. Prospective relation between catastrophizing and residual pain following knee arthroplasty: two-year follow-up. *Pain Res Manag.* 2008;13(4):335–341. doi:10.1155/2008/730951. PMID 18719716. *Cited in: M*
 
-26. Gan TJ, Belani KG, Bergese S, et al. Fourth consensus guidelines for the management of postoperative nausea and vomiting. *Anesth Analg.* 2020;131(2):411–448. doi:10.1213/ANE.0000000000004833. PMID 32467512. *Cited in: M, 02, 03*
+26. Gan TJ, Belani KG, Bergese S, et al. Fourth consensus guidelines for the management of postoperative nausea and vomiting. *Anesth Analg.* 2020;131(2):411–448. doi:10.1213/ANE.0000000000004833. PMID 32467512. *Cited in: M, 02. Historical; superseded by entry 63.*
 
 27. Han PKJ, Klein WMP, Arora NK. Varieties of uncertainty in health care: a conceptual taxonomy. *Med Decis Making.* 2011;31(6):828–838. doi:10.1177/0272989X11393976. PMID 22067431. *Cited in: 03*
 
-28. Horlocker TT, Vandermeuelen E, Kopp SL, Gogarten W, Leffert LR, Benzon HT. Regional anesthesia in the patient receiving antithrombotic or thrombolytic therapy: American Society of Regional Anesthesia and Pain Medicine evidence-based guidelines (fourth edition). *Reg Anesth Pain Med.* 2018;43(3):263–309. doi:10.1097/AAP.0000000000000763. PMID 29561531. *Cited in: 02*
+28. Horlocker TT, Vandermeuelen E, Kopp SL, Gogarten W, Leffert LR, Benzon HT. Regional anesthesia in the patient receiving antithrombotic or thrombolytic therapy: American Society of Regional Anesthesia and Pain Medicine evidence-based guidelines (fourth edition). *Reg Anesth Pain Med.* 2018;43(3):263–309. doi:10.1097/AAP.0000000000000763. PMID 29561531. *Cited in: 02. Historical; superseded by entry 65.*
 
 29. Hussain N, Brull R, McCartney CJL, et al. Pectoralis-II myofascial block and analgesia in breast cancer surgery: a systematic review and meta-analysis. *Anesthesiology.* 2019;131(3):630–648. doi:10.1097/ALN.0000000000002822. PMID 31408448. *Cited in: M, 02*
 
 30. Institute of Medicine. *Health Literacy: A Prescription to End Confusion.* Washington, DC: National Academies Press; 2004. doi:10.17226/10883. *Cited in: M, 03*
 
-31. Jacobs A, Lemoine A, Joshi GP, Van de Velde M, Bonnet F; PROSPECT Working Group. PROSPECT guideline for oncological breast surgery: a systematic review and procedure-specific postoperative pain management recommendations. *Anaesthesia.* 2020;75(5):664–673. doi:10.1111/anae.14964. PMID 31984479. *Cited in: M, 02*
+31. Jacobs A, Lemoine A, Joshi GP, Van de Velde M, Bonnet F; PROSPECT Working Group. PROSPECT guideline for oncological breast surgery: a systematic review and procedure-specific postoperative pain management recommendations. *Anaesthesia.* 2020;75(5):664–673. doi:10.1111/anae.14964. PMID 31984479. *Cited in: M, 02. Historical for major breast surgery; superseded by entry 61.*
 
 32. Kamiya Y, Hasegawa M, Yoshida T, Takamatsu M, Koyama Y. Impact of pectoral nerve block on postoperative pain and quality of recovery in patients undergoing breast cancer surgery: a randomised controlled trial. *Eur J Anaesthesiol.* 2018;35(3):215–223. doi:10.1097/EJA.0000000000000762. PMID 29227351. *Cited in: M*
 
@@ -126,11 +128,29 @@ Version 2.0 — October 2026
 
 59. Yang L, Du S, Sun Y. Intravenous acetaminophen as an adjunct to multimodal analgesia after total knee and hip arthroplasty: a systematic review and meta-analysis. *Int J Surg.* 2017;47:135–146. doi:10.1016/j.ijsu.2017.09.011. PMID 28919091. *Cited in: M*
 
+## Entries added November 2026
+
+These entries were added in the November 2026 source-currency update. They are numbered after the original alphabetical list so that existing numbers in all documents stay the same. Their identifiers were checked against publisher, society and indexed PubMed listings by web search, not by the NCBI ESummary run used for entries 1–59, and they are not included in `reference-identity-audit.json`. Identifiers that could not be confirmed are marked "identifier unverified". For entries 60, 61 and 63, only abstracts and summaries were reviewed, not the full text.
+
+60. American Society of Anesthesiologists Task Force on Perioperative Pain Management. 2026 American Society of Anesthesiologists practice guideline on perioperative pain management using local and regional analgesia for cardiothoracic surgeries, mastectomy, and abdominal surgeries. *Anesthesiology.* 2026;144(1):19–43. doi:10.1097/ALN.0000000000005790. PMID 41363869. *Cited in: M, 02*
+
+61. Desai N, Dirzu DS, Zolger D, et al.; PROSPECT Working Group of the European Society of Regional Anaesthesia and Pain Therapy. Pain management after major oncological breast surgery: an updated systematic review and procedure specific postoperative pain management (PROSPECT) recommendations. *Anaesthesia.* 2026 (published online 12 August 2026). doi:10.1111/anae.70313. PMID 42581686. *Cited in: M, 02. Current PROSPECT statement for major oncological breast surgery; supersedes entry 31 for major surgery.*
+
+62. Foo I, Macfarlane AJR, Srivastava D, et al. The use of intravenous lidocaine for postoperative pain and recovery: international consensus statement on efficacy and safety. *Anaesthesia.* 2021;76(2):238–250. doi:10.1111/anae.15270. PMID 33141959. *Cited in: M, 02*
+
+63. Gan TJ, Jin Z, Ayad S, et al. Fifth consensus guidelines for the management of postoperative nausea and vomiting: executive summary. *Anesth Analg.* 2025 (published online 14 November 2025). doi:10.1213/ANE.0000000000007816. PMID: identifier unverified (an earlier repository link to PMID 41237407 could not be confirmed and has been removed). *Cited in: M, 02, 03. Supersedes entry 26.*
+
+64. Kharasch ED, Clark JD, Kheterpal S. Perioperative gabapentinoids: deflating the bubble. *Anesthesiology.* 2020;133(2):251–254. doi:10.1097/ALN.0000000000003394. PMID: identifier unverified. *Cited in: M (editorial; included for context under the stated exception)*
+
+65. Kopp SL, Vandermeulen E, McBane RD, et al. Regional anesthesia in the patient receiving antithrombotic or thrombolytic therapy: American Society of Regional Anesthesia and Pain Medicine evidence-based guidelines (fifth edition). *Reg Anesth Pain Med.* 2025 (published online 29 January 2025). doi:10.1136/rapm-2024-105766. PMID 39880411. *Cited in: 02. Supersedes entry 28.*
+
+66. Verret M, Lauzier F, Zarychanski R, et al. Perioperative use of gabapentinoids for the management of postoperative acute pain: a systematic review and meta-analysis. *Anesthesiology.* 2020;133(2):265–279. doi:10.1097/ALN.0000000000003428. PMID 32667154. *Cited in: M, 02*
+
 ---
 
 ## Author and License
 
-**Collin B. George, Independent Researcher**
+**Collin B. George, pre-medical student**
 ORCID: 0009-0007-8162-6839
 GitHub: [github.com/collingeorge](https://github.com/collingeorge)
 
@@ -141,6 +161,3 @@ Licensed under Creative Commons Attribution 4.0 International (CC BY 4.0).
 © 2025–2026 Collin B. George — https://github.com/collingeorge/Breast-Reconstruction-Analgesia-Review
 
 
-## Source/version update — 27 October 2026
-
-The 2020 PONV consensus and 2018 antithrombotic guideline are historical sources. A [fifth PONV consensus executive summary](https://pubmed.ncbi.nlm.nih.gov/41237407/) and [ASRA fifth-edition guideline](https://asra.com/guidelines-articles/guidelines) are now available. Their existence does not validate this portfolio as an implementation guide. [Foo et al. 2021](https://pubmed.ncbi.nlm.nih.gov/33141959/) provides specific IV-lidocaine safety cautions regarding other local-anesthetic interventions. Historical PROSPECT gabapentin recommendations should be read alongside [Verret et al. 2020](https://pubmed.ncbi.nlm.nih.gov/32667154/), rather than treated as an unconditional routine-use endorsement.

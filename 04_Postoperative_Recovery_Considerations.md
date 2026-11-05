@@ -1,11 +1,11 @@
 # Postoperative Recovery as a Multidimensional Outcome: Conceptual Considerations in Breast Reconstruction Revision
 
-**Collin B. George, Independent Researcher**
+**Collin B. George, pre-medical student**
 ORCID: 0009-0007-8162-6839
-Narrative Literature Review — Version 2.0, October 2026
+Narrative Literature Review — repository release 2026.11 (text October 2026; reviewed November 2026)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-> **Educational literature review only.** Not medical advice, a discharge guide, or patient instructions; not for patient care. The author is a premedical student, not a licensed clinician.
+> **Educational work by a pre-medical student — not medical advice.** Not a clinical protocol, prescription, or patient handout, and not for patient care. See [DISCLAIMER](DISCLAIMER.md).
 
 ---
 
@@ -133,7 +133,7 @@ This analysis has examined that gap as a conceptual problem in the published lit
 
 ## References
 
-Full citations, with verified PMIDs and DOIs, are in the master list in [`06_References.md`](06_References.md). Sources cited in this document (master-list numbers):
+Full citations, with identity-checked PMIDs and DOIs (metadata only; see [REFERENCE_AUDIT.md](REFERENCE_AUDIT.md)), are in the master list in [`06_References.md`](06_References.md). Sources cited in this document (master-list numbers):
 
 [2] Aaronson et al., 1993 · [16] Bowyer et al., 2014 · [33] Kehlet & Wilmore, 2008 · [36] Ljungqvist et al., 2017 · [39] Myles et al., 1999 · [45] Pusic et al., 2009 · [49] Stark et al., 2013 · [53] Teo et al., 2016
 
@@ -141,7 +141,7 @@ Full citations, with verified PMIDs and DOIs, are in the master list in [`06_Ref
 
 ## Author and License
 
-**Collin B. George, Independent Researcher**
+**Collin B. George, pre-medical student**
 ORCID: 0009-0007-8162-6839
 GitHub: [github.com/collingeorge](https://github.com/collingeorge)
 
@@ -156,6 +156,3 @@ Licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](http
 *Educational literature review only. Not intended for patient care, clinical decision-making, institutional implementation, or documentation use.*
 
 
-## Source/version update — 27 October 2026
-
-The 2020 PONV consensus and 2018 antithrombotic guideline are historical sources. A [fifth PONV consensus executive summary](https://pubmed.ncbi.nlm.nih.gov/41237407/) and [ASRA fifth-edition guideline](https://asra.com/guidelines-articles/guidelines) are now available. Their existence does not validate this portfolio as an implementation guide. [Foo et al. 2021](https://pubmed.ncbi.nlm.nih.gov/33141959/) provides specific IV-lidocaine safety cautions regarding other local-anesthetic interventions. Historical PROSPECT gabapentin recommendations should be read alongside [Verret et al. 2020](https://pubmed.ncbi.nlm.nih.gov/32667154/), rather than treated as an unconditional routine-use endorsement.

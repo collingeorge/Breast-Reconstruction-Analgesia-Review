@@ -1,0 +1,5 @@
+# Historical version notice
+
+> **Educational work by a pre-medical student — not medical advice.** Not a clinical protocol, prescription, or patient handout, and not for patient care. See [DISCLAIMER](DISCLAIMER.md).
+
+Repository release 2026.11 (manuscript v8) supersedes earlier versions of this narrative review where RELEASE_NOTES.md, PUBLICATION_REVIEW.md and REFERENCE_AUDIT.md record a correction, narrowing or withdrawal. This covers the earlier "Version 2.0" labels and the 2026.10 release candidates. Superseded guidance, such as the 2020 PROSPECT breast guideline, the Fourth PONV consensus and the fourth-edition ASRA antithrombotic guideline, is now cited only as historical context. Earlier commits remain recoverable for provenance and are not thereby verified. Do not treat historical guideline characterizations, effect estimates, search descriptions or reference lists from earlier versions as current or validated evidence. This repository contains no PDF exports of the manuscript. No Git history rewrite or visibility change has been performed.

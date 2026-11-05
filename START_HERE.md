@@ -1,5 +1,7 @@
 # Breast reconstruction analgesia — reader’s guide
 
+> **Educational work by a pre-medical student — not medical advice.** Not a clinical protocol, prescription, or patient handout, and not for patient care. See [DISCLAIMER](DISCLAIMER.md).
+
 Updated 29 October 2026. A narrative literature review with reference-identity records, search diagnostics and interpretation notes.
 
 ## Read in this order

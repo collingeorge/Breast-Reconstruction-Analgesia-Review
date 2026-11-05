@@ -1,11 +1,11 @@
 # Patient Communication Considerations in Perioperative Counseling for Breast Reconstruction Revision
 
-**Collin B. George, Independent Researcher**
+**Collin B. George, pre-medical student**
 ORCID: 0009-0007-8162-6839
-Narrative Literature Review — Version 2.0, October 2026
+Narrative Literature Review — repository release 2026.11 (text October 2026; reviewed November 2026)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-> **Educational literature review only.** Not medical advice, a counseling script, or a consent template; not for patient care. The author is a premedical student, not a licensed clinician.
+> **Educational work by a pre-medical student — not medical advice.** Not a clinical protocol, prescription, or patient handout, and not for patient care. See [DISCLAIMER](DISCLAIMER.md).
 
 ---
 
@@ -60,7 +60,7 @@ into language accessible to patients with varying degrees of medical familiarity
 
 ### 1.3 Limitations of Written Materials
 
-Published studies show that written consent documents frequently exceed the reading level of the populations they are intended to serve. Consent-form template text provided by institutional review boards at US medical schools exceeded the schools' own readability standards by an average of 2.8 grade levels (Paasche-Orlow et al., 2003), and invasive-procedure consent forms from Rhode Island hospitals were written at an average 15th-grade reading level (Eltorai et al., 2015). This is particularly relevant in oncology-adjacent surgical settings, where patient literacy, emotional state, and prior medical exposure vary substantially across individuals.
+Published studies show that written consent documents frequently exceed the reading level of the populations they are intended to serve. Of 114 US medical school institutional review board websites surveyed, 61 posted a grade-level readability standard, and the template consent text at those schools exceeded the posted standard by an average of 2.8 grade levels (Paasche-Orlow et al., 2003), and invasive-procedure consent forms from Rhode Island hospitals were written at an average 15th-grade reading level (Eltorai et al., 2015). This is particularly relevant in oncology-adjacent surgical settings, where patient literacy, emotional state, and prior medical exposure vary substantially across individuals.
 
 The implication for perioperative communication is that written materials alone are unlikely to be sufficient as a substitute for individualized verbal communication between the patient and the clinical team. The format, timing, and relational context of communication may each affect comprehension quality.
 
@@ -72,7 +72,7 @@ The implication for perioperative communication is that written materials alone 
 
 Shared decision-making (SDM) is a model of clinical communication in which clinicians and patients collaboratively engage with clinical evidence, patient preferences, and contextual values to arrive at care decisions (Barry & Edgman-Levitan, 2012; Elwyn et al., 2012). Published SDM literature distinguishes it from both paternalistic decision-making (clinician decides) and uninformed patient autonomy (patient decides without adequate support).
 
-In the perioperative anesthesia context, SDM is relevant to decisions about analgesic approach, regional anesthesia acceptance, opioid preference, and postoperative pain management planning. Patient priorities in this setting may differ — including concern about PONV risk (Gan et al., 2020; Apfel et al., 1999), needle exposure, opioid avoidance, and sedation burden — and these factors may influence perioperative decision discussions.
+In the perioperative anesthesia context, SDM is relevant to decisions about analgesic approach, regional anesthesia acceptance, opioid preference, and postoperative pain management planning. Patient priorities in this setting may differ — including concern about PONV risk (Apfel et al., 1999; Gan et al., 2025), needle exposure, opioid avoidance, and sedation burden — and these factors may influence perioperative decision discussions.
 
 ### 2.2 Disclosure of Uncertainty
 
@@ -169,15 +169,15 @@ This analysis has examined those communication challenges as described in publis
 
 ## References
 
-Full citations, with verified PMIDs and DOIs, are in the master list in [`06_References.md`](06_References.md). Sources cited in this document (master-list numbers):
+Full citations, with identity-checked PMIDs and DOIs (metadata only; see [REFERENCE_AUDIT.md](REFERENCE_AUDIT.md)), are in the master list in [`06_References.md`](06_References.md). Sources cited in this document (master-list numbers):
 
-[7] Apfel et al., 1999 · [9] Barry & Edgman-Levitan, 2012 · [12] Berkman et al., 2011 · [17] Braddock et al., 1999 · [21] Cohn & Larson, 2007 · [22] Eltorai et al., 2015 · [23] Elwyn et al., 2012 · [24] Fink et al., 2010 · [26] Gan et al., 2020 · [27] Han et al., 2011 · [30] Institute of Medicine, 2004 · [38] Mulley et al., 2012 · [43] Paasche-Orlow et al., 2003 · [44] Politi et al., 2007 · [45] Pusic et al., 2009 · [46] Sepucha et al., 2004 · [47] Shevde & Panagopoulos, 1991 · [48] Stacey et al., 2017 · [53] Teo et al., 2016
+[7] Apfel et al., 1999 · [9] Barry & Edgman-Levitan, 2012 · [12] Berkman et al., 2011 · [17] Braddock et al., 1999 · [21] Cohn & Larson, 2007 · [22] Eltorai et al., 2015 · [23] Elwyn et al., 2012 · [24] Fink et al., 2010 · [27] Han et al., 2011 · [30] Institute of Medicine, 2004 · [38] Mulley et al., 2012 · [43] Paasche-Orlow et al., 2003 · [44] Politi et al., 2007 · [45] Pusic et al., 2009 · [46] Sepucha et al., 2004 · [47] Shevde & Panagopoulos, 1991 · [48] Stacey et al., 2017 · [53] Teo et al., 2016 · [63] Gan et al., 2025
 
 ---
 
 ## Author and License
 
-**Collin B. George, Independent Researcher**
+**Collin B. George, pre-medical student**
 ORCID: 0009-0007-8162-6839
 GitHub: [github.com/collingeorge](https://github.com/collingeorge)
 
@@ -192,6 +192,3 @@ Licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](http
 *Educational literature review only. Not intended for patient care, clinical decision-making, institutional implementation, or documentation use.*
 
 
-## Source/version update — 27 October 2026
-
-The 2020 PONV consensus and 2018 antithrombotic guideline are historical sources. A [fifth PONV consensus executive summary](https://pubmed.ncbi.nlm.nih.gov/41237407/) and [ASRA fifth-edition guideline](https://asra.com/guidelines-articles/guidelines) are now available. Their existence does not validate this portfolio as an implementation guide. [Foo et al. 2021](https://pubmed.ncbi.nlm.nih.gov/33141959/) provides specific IV-lidocaine safety cautions regarding other local-anesthetic interventions. Historical PROSPECT gabapentin recommendations should be read alongside [Verret et al. 2020](https://pubmed.ncbi.nlm.nih.gov/32667154/), rather than treated as an unconditional routine-use endorsement.
