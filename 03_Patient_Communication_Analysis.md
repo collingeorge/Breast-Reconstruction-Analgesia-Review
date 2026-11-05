@@ -149,7 +149,7 @@ This observation is offered as an analytical framing of a gap in the literature,
 
 This analysis has several limitations that readers should consider.
 
-This is a narrative literature review of published communication and patient-centered care literature. It does not constitute original research, and no primary data were collected. The author is a premedical student without clinical licensure or authority to provide clinical guidance. Interpretations reflect educational engagement with published sources rather than professional clinical judgment.
+This is a narrative literature review of published communication and patient-centered care literature. It does not constitute original research, and no primary data were collected. The author is a pre-medical student without clinical licensure or authority to provide clinical guidance. Interpretations reflect educational engagement with published sources rather than professional clinical judgment.
 
 The published literature on patient communication in perioperative contexts is itself heterogeneous, with studies varying in population, setting, methodology, and outcome definition. Several key sources come from research consent or general medical settings rather than perioperative care. The themes discussed in this analysis represent commonly recurring patterns across this literature, not universal findings.
 

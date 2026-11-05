@@ -8,18 +8,18 @@
   "files": [
     {
       "path": "02_Comparative_Educational_Review.md",
-      "bytes": 29103,
-      "sha256": "b6579cef595478ebcf92bb7489674b7e8861827e35121efeb8571b06cfe14736"
+      "bytes": 29104,
+      "sha256": "25b60f29afb0390a236d174f8a0bf5d2d15665af9dd02bccb56dce9071f96dd6"
     },
     {
       "path": "03_Patient_Communication_Analysis.md",
-      "bytes": 22736,
-      "sha256": "bbc6da0ba0a365ba8ed344a512e39c29ec5ca30dec8af3f2e34f17e85ac6dd54"
+      "bytes": 22737,
+      "sha256": "1f033cf5546c28290d9accadac907aec5b9aef416b25a4759742b923e40b5c63"
     },
     {
       "path": "04_Postoperative_Recovery_Considerations.md",
-      "bytes": 18103,
-      "sha256": "0f24c8f9dc0b3ee80ea7d0b131a714eb75bb54de9a5e7b7f36669474df237452"
+      "bytes": 18104,
+      "sha256": "8879b3ab626202d31fdd84947ebe15124abdcec6650daebba1e5eff6ab11d9af"
     },
     {
       "path": "06_References.md",
@@ -68,8 +68,8 @@
     },
     {
       "path": "George-BreastRecon-Review-v8.md",
-      "bytes": 86878,
-      "sha256": "f2d6f338da21da7564cf0133cf38096289952bb621988b6af6cc18fb740df436"
+      "bytes": 86879,
+      "sha256": "5d7455d02a7684158f1878deabbec299e0b5bf84b7d174505b0a1bfaa19fa42e"
     },
     {
       "path": "HISTORICAL_VERSION_NOTICE.md",

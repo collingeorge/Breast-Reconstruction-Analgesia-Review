@@ -113,7 +113,7 @@ These observations are offered as analytical framing of gaps in the literature, 
 
 This analysis has several important limitations.
 
-This is a narrative literature review, not a systematic review. Source identification was not exhaustive, and no formal evidence-grading framework was applied. The author is a premedical student without clinical licensure or authority to provide clinical guidance. Interpretations reflect educational engagement with published sources rather than professional clinical judgment.
+This is a narrative literature review, not a systematic review. Source identification was not exhaustive, and no formal evidence-grading framework was applied. The author is a pre-medical student without clinical licensure or authority to provide clinical guidance. Interpretations reflect educational engagement with published sources rather than professional clinical judgment.
 
 The published literature on postoperative recovery as a construct is itself heterogeneous, spanning perioperative medicine, outcomes research, health psychology, and patient-reported outcome methodology. Sources vary substantially in population, setting, and conceptual framework. The themes identified here represent analytical patterns across this literature, not universal findings.
 

@@ -201,7 +201,7 @@ This review has several important limitations that readers should consider.
 
 This is a narrative literature review, not a systematic review. Source identification was not exhaustive, and no formal evidence-grading framework was applied. The review reflects the author's educational synthesis of available literature and should not be treated as a comprehensive or authoritative evidence assessment.
 
-The author is a premedical student without clinical licensure or authority to provide clinical guidance. Interpretations reflect educational engagement with published sources rather than professional clinical judgment.
+The author is a pre-medical student without clinical licensure or authority to provide clinical guidance. Interpretations reflect educational engagement with published sources rather than professional clinical judgment.
 
 Evidence quality across the sources reviewed is heterogeneous. Guideline recommendations, randomized trial findings, observational data, and expert opinion are discussed without consistent formal grading. Readers should consult primary sources and qualified clinicians for any clinical purpose.
 
