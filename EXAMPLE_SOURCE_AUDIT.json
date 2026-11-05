@@ -12,7 +12,7 @@
     },
     {
       "id": "B",
-      "title": "Joshi GP et al. 2026 ASA Practice Guideline on Perioperative Pain Management Using Local and Regional Analgesia for Cardiothoracic Surgeries, Mastectomy, and Abdominal Surgeries. *Anesthesiology*. [10.1097/ALN.0000000000005790](https://doi.org/10.1097/ALN.0000000000005790)",
+      "title": "American Society of Anesthesiologists Task Force on Perioperative Pain Management. 2026 ASA Practice Guideline on Perioperative Pain Management Using Local and Regional Analgesia for Cardiothoracic Surgeries, Mastectomy, and Abdominal Surgeries. *Anesthesiology*. 2026;144(1):19-43. [10.1097/ALN.0000000000005790](https://doi.org/10.1097/ALN.0000000000005790)",
       "doi": "10.1097/ALN.0000000000005790",
       "scope": "Procedure-specific local/regional adjunct recommendations; not sole-anesthetic selection",
       "checked": "See ANESTHESIA_OPTIONS_AND_CASES.md for source title, scope and source-type mapping"
@@ -33,9 +33,9 @@
     },
     {
       "id": "BREAST",
-      "title": "Jacobs et al. PROSPECT oncological breast surgery (2020)",
+      "title": "Desai N et al. PROSPECT update for major oncological breast surgery. Anaesthesia 2026 (doi 10.1111/anae.70313); historical predecessor Jacobs et al. PROSPECT oncological breast surgery (2020)",
       "doi": "10.1111/anae.14964",
-      "scope": "Oncological surgery population; not universal implant revision, augmentation or autologous donor-site evidence.",
+      "scope": "Major oncological surgery population; not universal implant revision, augmentation or autologous donor-site evidence. 2020 version (doi field) is historical; only the 2026 abstract was reviewed.",
       "checked": "Publisher/PubMed identity and available source text; not an exhaustive full-text appraisal"
     },
     {

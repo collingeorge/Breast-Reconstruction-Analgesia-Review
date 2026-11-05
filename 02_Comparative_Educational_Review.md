@@ -2,7 +2,7 @@
 
 **Collin B. George, pre-medical student**
 ORCID: 0009-0007-8162-6839
-Narrative Literature Review — Version 2.0, October 2026
+Narrative Literature Review — repository release 2026.11 (text October 2026; source-currency update November 2026)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 > **Educational work by a pre-medical student — not medical advice.** Not a clinical protocol, prescription, or patient handout, and not for patient care. See [DISCLAIMER](DISCLAIMER.md).
@@ -35,6 +35,8 @@ Literature was identified through searches of PubMed using combinations of terms
 
 Evidence quality across sources is heterogeneous. Where possible, guideline-level evidence is distinguished from trial-level evidence and expert opinion, though this review does not apply a formal evidence-grading framework. Where direct evidence specific to breast reconstruction revision was limited, adjacent surgical literature was interpreted cautiously and identified as extrapolative where applicable. Readers should consult primary sources and institutional resources for any clinical purpose.
 
+**Source-currency note (November 2026).** Superseded guidance is cited as historical. The 2020 PROSPECT breast guideline (Jacobs et al., 2020) has a 2026 update for major oncological breast surgery (Desai et al., 2026). The Fourth PONV consensus (Gan et al., 2020) has been replaced by the Fifth (Gan et al., 2025). The fourth-edition ASRA antithrombotic guideline (Horlocker et al., 2018) has been replaced by the fifth edition (Kopp et al., 2025). For the 2025–2026 documents only abstracts and summaries were reviewed.
+
 ---
 
 ## Background and Clinical Context
@@ -57,7 +59,7 @@ Agents commonly discussed in the multimodal analgesia literature for breast surg
 
 ### 1.2 ERAS Society Guidance
 
-An ERAS Society–endorsed consensus review for breast reconstruction recommends opioid-sparing perioperative medications, anesthetic techniques that decrease PONV and pain, minimal preoperative fasting, prevention of intraoperative hypothermia, and early mobilization (Temple-Oberle et al., 2017). The review notes that most of its recommendations rest on lower-level or extrapolated evidence. The PROSPECT guideline for oncological breast surgery similarly recommends basic non-opioid analgesics, with regional techniques considered for major breast surgery and opioids reserved for rescue (Jacobs et al., 2020). Applicability to specific patients and procedures requires individualized clinical judgment by the treating team and integration with local institutional protocols.
+An ERAS Society–endorsed consensus review for breast reconstruction recommends opioid-sparing perioperative medications, anesthetic techniques that decrease PONV and pain, minimal preoperative fasting, prevention of intraoperative hypothermia, and early mobilization (Temple-Oberle et al., 2017). The review notes that most of its recommendations rest on lower-level or extrapolated evidence. The 2020 PROSPECT guideline for oncological breast surgery, now historical, similarly recommended basic non-opioid analgesics and reserved opioids for rescue. For major breast surgery it named paravertebral block as the first-choice regional technique, PECS block as an alternative to it, and wound infiltration as an addition to a regional technique (Jacobs et al., 2020). Its 2026 update for major oncological breast surgery continues to recommend paracetamol, NSAIDs or COX-2 inhibitors and dexamethasone. It lists several single-shot regional techniques (erector spinae plane, PECS, serratus anterior plane and paravertebral blocks) and local infiltration analgesia as recommended (Desai et al., 2026; abstract only reviewed). The 2020 guideline also recommended preoperative gabapentin. A later mixed-surgery meta-analysis did not support routine gabapentinoid use (Verret et al., 2020), and gabapentinoids are not among the interventions recommended in the 2026 abstract. Applicability to specific patients and procedures requires individualized clinical judgment by the treating team and integration with local institutional protocols.
 
 ### 1.3 Evidence Heterogeneity
 
@@ -71,7 +73,7 @@ A limitation noted across the literature is heterogeneity in study populations, 
 
 The PECS I block was first described by Blanco in 2011, and the PECS II ("modified Pecs") block in 2012 (Blanco, 2011; Blanco et al., 2012). Both have been the subject of substantial literature interest in breast surgery analgesia. PECS I targets the lateral and medial pectoral nerves in the fascial plane between pectoralis major and pectoralis minor. PECS II adds a deeper injection intended to block at least the pectoral nerves, the intercostobrachial nerve, intercostal nerves III–VI, and the long thoracic nerve (Blanco et al., 2012).
 
-Meta-analyses and trials describe opioid-sparing effects associated with PECS blocks in breast cancer surgery, although effect size, certainty, and generalizability vary across studies (Hussain et al., 2019; Sun et al., 2020; Bashandy & Abbas, 2015). A SAMBA practice advisory recommends PECS blocks over systemic analgesia alone for breast-conserving surgery but does not recommend them over surgeon-performed local infiltration (Ardon et al., 2022). Dexamethasone as a perineural adjuvant has been reported in a meta-analysis of peripheral nerve block trials to prolong analgesia, although results were highly heterogeneous; evidence specific to PECS techniques is limited relative to the broader peripheral nerve block literature (Albrecht et al., 2015).
+Meta-analyses and trials describe opioid-sparing effects associated with PECS blocks in breast cancer surgery, although effect size, certainty, and generalizability vary across studies (Hussain et al., 2019; Sun et al., 2020; Bashandy & Abbas, 2015). A SAMBA practice advisory recommends PECS blocks over systemic analgesia alone for breast-conserving surgery but does not recommend them over surgeon-performed local infiltration. For mastectomy it recommends a PECS block if a patient is unable to receive a paravertebral block, which places PECS behind PVB (Ardon et al., 2022). The 2026 ASA practice guideline strongly recommends fascial plane blocks or paravertebral block for adults undergoing mastectomy, to reduce pain and/or opioid use in the first 24 hours (American Society of Anesthesiologists Task Force on Perioperative Pain Management, 2026). Dexamethasone as a perineural adjuvant has been reported in a meta-analysis of peripheral nerve block trials to prolong analgesia, although results were highly heterogeneous; evidence specific to PECS techniques is limited relative to the broader peripheral nerve block literature (Albrecht et al., 2015).
 
 ### 2.2 Serratus Anterior Plane Block
 
@@ -85,7 +87,7 @@ Local anesthetic systemic toxicity (LAST) is a recognized risk with large-volume
 
 Bilateral procedures require attention to cumulative local anesthetic exposure. Foo et al. (2021) advise against overlapping IV lidocaine with the period of action of other local-anesthetic interventions, including regional blocks. This is more restrictive than simply adding doses together. No combination regimen or timing instruction is supplied here; see [REFERENCE_AUDIT.md](REFERENCE_AUDIT.md).
 
-Patient-specific factors including coagulopathy, anticoagulation status, local infection, and anatomic variation are described in the literature as relevant to regional anesthesia eligibility, with ASRA Pain Medicine's antithrombotic guidelines serving as a primary reference framework (Horlocker et al., 2018).
+Patient-specific factors including coagulopathy, anticoagulation status, local infection, and anatomic variation are described in the literature as relevant to regional anesthesia eligibility, with ASRA Pain Medicine's antithrombotic guidelines serving as a primary reference framework. The current version is the fifth edition (Kopp et al., 2025), which, among other changes, describes anticoagulant dosing as "low" or "high" dose rather than "prophylactic" or "therapeutic". The fourth edition (Horlocker et al., 2018) is historical. No timing intervals are given in this review.
 
 ---
 
@@ -103,13 +105,13 @@ Several intravenous agents are discussed in the perioperative literature as comp
 
 **Dexmedetomidine** is an alpha-2 agonist with sedative, anxiolytic, and analgesic-sparing properties (Weerink et al., 2017). A meta-analysis of perioperative alpha-2 agonists reported reduced 24-hour morphine consumption with dexmedetomidine and an increased risk of postoperative bradycardia (Blaudszun et al., 2012). The balance of potential analgesic benefit against hemodynamic effects is described as patient-specific and requiring attending-level clinical judgment.
 
-**Intravenous lidocaine infusion** is discussed as having analgesic and opioid-sparing properties in several surgical contexts (McCarthy et al., 2010). Meta-analytic evidence shows benefit mainly in abdominal surgery; toxic plasma levels were observed in some trials, and the authors called for dose and safety to be established (Vigneault et al., 2011). Evidence specific to breast surgery is limited. Because IV lidocaine adds to the total local anesthetic load, its combination with regional blocks is relevant to LAST risk (see Section 2.3).
+**Intravenous lidocaine infusion** is discussed as having analgesic and opioid-sparing properties in several surgical contexts (McCarthy et al., 2010). Meta-analytic evidence shows benefit mainly in abdominal surgery; toxic plasma levels were observed in some trials, and the authors called for dose and safety to be established (Vigneault et al., 2011). Evidence specific to breast surgery is limited. An international consensus statement regards IV lidocaine as a high-risk medicine and advises that it should not be given at the same time as, or within the period of action of, other local anesthetic interventions such as regional blocks or infiltration (Foo et al., 2021; see Section 2.3).
 
 **Ketamine** at subanesthetic doses is an NMDA antagonist. A Cochrane review concluded that perioperative IV ketamine probably reduces postoperative analgesic consumption and pain intensity across a range of operations, including mastectomy (Brinck et al., 2018). Cautions commonly described for ketamine include psychiatric history such as psychosis and conditions in which increases in blood pressure or heart rate would be hazardous.
 
 ### 3.3 Propofol Total Intravenous Anesthesia
 
-Propofol-based TIVA is discussed in published literature as associated with reduced PONV compared with volatile anesthetic maintenance, and consensus PONV guidelines address anesthetic technique as part of reducing baseline PONV risk (Gan et al., 2020). This property is cited in ERAS-aligned perioperative literature as a rationale for TIVA consideration in settings where PONV prevention is a clinical priority, though the attending team determines appropriateness for individual patients.
+Propofol-based TIVA is discussed in published literature as associated with reduced PONV compared with volatile anesthetic maintenance, and consensus PONV guidelines address anesthetic technique as part of reducing baseline PONV risk (Gan et al., 2020, historical; Gan et al., 2025). The breast reconstruction ERAS review recommends anesthetic techniques that decrease PONV and pain (Temple-Oberle et al., 2017). This review did not confirm a specific recommendation for propofol TIVA in that document. The attending team determines appropriateness for individual patients.
 
 ---
 
@@ -117,17 +119,17 @@ Propofol-based TIVA is discussed in published literature as associated with redu
 
 ### 4.1 Continued Role in Selected Populations
 
-Published literature does not characterize opioid-inclusive anesthesia as categorically suboptimal in all contexts. Procedure-specific guidance for oncological breast surgery reserves opioids for postoperative rescue analgesia rather than excluding them (Jacobs et al., 2020). In the author's reading, opioid-containing approaches remain a recognized option in populations such as patients on chronic opioid therapy, those with multiple contraindications to non-opioid adjuncts, and those in whom opioid-sparing strategies have previously proven inadequate.
+Published literature does not characterize opioid-inclusive anesthesia as categorically suboptimal in all contexts. The 2020 procedure-specific guidance for oncological breast surgery reserved opioids for postoperative rescue analgesia rather than excluding them (Jacobs et al., 2020). In the author's reading, opioid-containing approaches remain a recognized option in populations such as patients on chronic opioid therapy, those with multiple contraindications to non-opioid adjuncts, and those in whom opioid-sparing strategies have previously proven inadequate.
 
 Inadequate pain management in patients with opioid tolerance carries its own patient safety implications, and coordination with chronic prescribers and pain management specialists is generally described as important in these contexts.
 
 ### 4.2 Opioid Minimization Within Conventional Approaches
 
-Even within opioid-containing frameworks, published ERAS and fast-track literature commonly discusses opioid minimization principles, including reduced opioid exposure where feasible, combination with non-opioid multimodal adjuncts, and prophylaxis against side effects such as pain, nausea, and vomiting (Kehlet & Wilmore, 2008; White et al., 2007; Temple-Oberle et al., 2017). This framing reflects the broader opioid stewardship orientation present throughout contemporary perioperative literature.
+Even within opioid-containing frameworks, published ERAS and fast-track literature commonly discusses opioid minimization principles, including reduced opioid exposure where feasible, combination with non-opioid multimodal adjuncts, adequate analgesia, and prophylaxis against nausea and vomiting (Kehlet & Wilmore, 2008; White et al., 2007; Temple-Oberle et al., 2017). This framing reflects the broader opioid stewardship orientation present throughout contemporary perioperative literature.
 
 ### 4.3 PONV in Opioid-Inclusive Contexts
 
-Postoperative opioid use is one of the four predictors in the Apfel simplified risk score, alongside female sex, history of motion sickness or PONV, and non-smoking (Apfel et al., 1999). The Apfel score is among the most widely referenced PONV risk stratification tools in perioperative guidelines, and consensus publications describe multi-agent PONV prophylaxis as appropriate for patients at moderate to high risk (Gan et al., 2020).
+Postoperative opioid use is one of the four predictors in the Apfel simplified risk score, alongside female sex, history of motion sickness or PONV, and non-smoking (Apfel et al., 1999). The Apfel score is among the most widely referenced PONV risk stratification tools in perioperative guidelines, and consensus publications describe multi-agent PONV prophylaxis scaled to risk (Gan et al., 2020, historical; Gan et al., 2025).
 
 ---
 
@@ -135,11 +137,11 @@ Postoperative opioid use is one of the four predictors in the Apfel simplified r
 
 ### 5.1 How Authors Frame the Comparison
 
-Published literature discussing the comparison between opioid-sparing and opioid-inclusive approaches generally does not present a binary choice, but rather a spectrum of approaches calibrated to patient-specific factors. The framing in ERAS-aligned and procedure-specific publications is that regional and multimodal approaches are broadly discussed as potentially advantageous where feasible, with opioids retained for rescue or when opioid-sparing approaches are contraindicated, declined by patients, or technically not possible (Jacobs et al., 2020; Temple-Oberle et al., 2017).
+Published literature discussing the comparison between opioid-sparing and opioid-inclusive approaches generally does not present a binary choice, but rather a spectrum of approaches calibrated to patient-specific factors. The framing in ERAS-aligned and procedure-specific publications is that regional and multimodal approaches are broadly discussed as potentially advantageous where feasible, with opioids retained for rescue or when opioid-sparing approaches are contraindicated, declined by patients, or technically not possible (Jacobs et al., 2020; Desai et al., 2026; Temple-Oberle et al., 2017).
 
 ### 5.2 Factors Discussed as Relevant in the Literature
 
-Across ERAS-aligned and perioperative review literature, commonly discussed patient and procedural factors relevant to analgesic approach considerations in this setting include (Temple-Oberle et al., 2017; Jacobs et al., 2020; Gan et al., 2020; Horlocker et al., 2018):
+Across ERAS-aligned and perioperative review literature, commonly discussed patient and procedural factors relevant to analgesic approach considerations in this setting include (Temple-Oberle et al., 2017; Jacobs et al., 2020; Desai et al., 2026; Gan et al., 2025; Kopp et al., 2025):
 
 - PONV risk profile and individual risk factors
 - Coagulopathy or anticoagulation status as relevant to regional anesthesia feasibility
@@ -169,7 +171,7 @@ Several important uncertainties are noted across the literature:
 
 ## Section 6: PONV — Literature Summary
 
-PONV is discussed extensively in the perioperative breast surgery literature as a clinically important outcome affecting patient comfort, recovery quality, and resource utilization. The Apfel simplified risk score is among the most widely cited risk stratification tools in this context (Apfel et al., 1999; Gan et al., 2020).
+PONV is discussed extensively in the perioperative breast surgery literature as a clinically important outcome affecting patient comfort, recovery quality, and resource utilization. The Apfel simplified risk score is among the most widely cited risk stratification tools in this context (Apfel et al., 1999; Gan et al., 2020). The current consensus is the Fifth (Gan et al., 2025). Its executive summary describes baseline risk assessment, prophylaxis scaled to risk, other risk-mitigation strategies and rescue, with added attention to post-discharge nausea and vomiting. The statements below that are attributed to the Fourth consensus (Gan et al., 2020) are historical and were not re-checked against the full Fifth consensus.
 
 Published consensus guidelines describe a tiered prophylaxis approach in which the number and combination of preventive agents are scaled to patient risk level. Agents discussed include 5-HT3 antagonists, glucocorticoids, neurokinin-1 antagonists, and transdermal scopolamine, among others. The general principle across published rescue antiemetic discussions is to avoid repeating the same drug class in sequential rescue attempts (Gan et al., 2020).
 
@@ -179,7 +181,7 @@ The relationship between anesthetic technique and PONV is discussed in terms of 
 
 ## Section 7: Special Population Considerations in the Literature
 
-Published perioperative literature and safety guidance commonly identify several patient populations as requiring additional consideration in analgesic planning:
+Except for the obstructive sleep apnea paragraph, which cites an ASA guideline, this section is unsourced general background written by the author. It is not a literature summary, and readers should consult primary sources. Perioperative safety guidance commonly identifies several patient populations as requiring additional consideration in analgesic planning:
 
 **Elderly and frail patients** are generally described as having increased sensitivity to sedative and analgesic agents, higher delirium risk, and reduced hepatic and renal clearance, making dose consideration and postoperative monitoring important. Processed EEG monitoring is discussed in some publications as potentially useful for anesthetic depth titration in this population.
 
@@ -205,7 +207,7 @@ Evidence quality across the sources reviewed is heterogeneous. Guideline recomme
 
 Institutional variability is substantial. Perioperative practices, formulary availability, regional anesthesia expertise, and patient populations vary across institutions in ways that significantly affect the applicability of any published findings. Nothing in this review should be read as applicable to any specific institution, clinical context, or patient population.
 
-This review reflects literature identified through 2025, with references re-verified in October 2026. The perioperative medicine literature evolves continuously, and subsequent publications may modify or supersede the discussions summarized here.
+This review reflects literature identified through 2025. Reference identities were checked in October 2026, and superseded guidance was updated in November 2026. The perioperative medicine literature evolves continuously, and subsequent publications may modify or supersede the discussions summarized here.
 
 ---
 
@@ -219,9 +221,9 @@ This educational review is intended to synthesize those themes for academic lear
 
 ## References
 
-Full citations, with verified PMIDs and DOIs, are in the master list in [`06_References.md`](06_References.md). Sources cited in this document (master-list numbers):
+Full citations, with identity-checked PMIDs and DOIs (metadata only; see [REFERENCE_AUDIT.md](REFERENCE_AUDIT.md)), are in the master list in [`06_References.md`](06_References.md). Sources cited in this document (master-list numbers):
 
-[4] Albrecht et al., 2015 · [5] American Society of Anesthesiologists Task Force, 2014 · [6] An et al., 2023 · [7] Apfel et al., 1999 · [8] Ardon et al., 2022 · [10] Bashandy & Abbas, 2015 · [11] Beloeil, 2019 · [13] Blanco, 2011 · [14] Blanco et al., 2012 · [15] Blaudszun et al., 2012 · [18] Brinck et al., 2018 · [26] Gan et al., 2020 · [28] Horlocker et al., 2018 · [29] Hussain et al., 2019 · [31] Jacobs et al., 2020 · [33] Kehlet & Wilmore, 2008 · [34] Kim et al., 2018 · [37] McCarthy et al., 2010 · [40] Neal et al., 2018 · [41] Neal et al., 2021 · [51] Sun et al., 2020 · [52] Temple-Oberle et al., 2017 · [55] Vigneault et al., 2011 · [57] Weerink et al., 2017 · [58] White et al., 2007
+[4] Albrecht et al., 2015 · [5] American Society of Anesthesiologists Task Force, 2014 · [6] An et al., 2023 · [7] Apfel et al., 1999 · [8] Ardon et al., 2022 · [10] Bashandy & Abbas, 2015 · [11] Beloeil, 2019 · [13] Blanco, 2011 · [14] Blanco et al., 2012 · [15] Blaudszun et al., 2012 · [18] Brinck et al., 2018 · [26] Gan et al., 2020 (historical) · [28] Horlocker et al., 2018 (historical) · [29] Hussain et al., 2019 · [31] Jacobs et al., 2020 (historical) · [33] Kehlet & Wilmore, 2008 · [34] Kim et al., 2018 · [37] McCarthy et al., 2010 · [40] Neal et al., 2018 · [41] Neal et al., 2021 · [51] Sun et al., 2020 · [52] Temple-Oberle et al., 2017 · [55] Vigneault et al., 2011 · [57] Weerink et al., 2017 · [58] White et al., 2007 · [60] American Society of Anesthesiologists Task Force, 2026 · [61] Desai et al., 2026 · [62] Foo et al., 2021 · [63] Gan et al., 2025 · [65] Kopp et al., 2025 · [66] Verret et al., 2020
 
 ---
 
@@ -242,6 +244,3 @@ Licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](http
 *Educational literature review only. Not intended for patient care, clinical decision-making, institutional implementation, or documentation use.*
 
 
-## Source/version update — 27 October 2026
-
-The 2020 PONV consensus and 2018 antithrombotic guideline are historical sources. A [fifth PONV consensus executive summary](https://pubmed.ncbi.nlm.nih.gov/41237407/) and [ASRA fifth-edition guideline](https://asra.com/guidelines-articles/guidelines) are now available. Their existence does not validate this portfolio as an implementation guide. [Foo et al. 2021](https://pubmed.ncbi.nlm.nih.gov/33141959/) provides specific IV-lidocaine safety cautions regarding other local-anesthetic interventions. Historical PROSPECT gabapentin recommendations should be read alongside [Verret et al. 2020](https://pubmed.ncbi.nlm.nih.gov/32667154/), rather than treated as an unconditional routine-use endorsement.

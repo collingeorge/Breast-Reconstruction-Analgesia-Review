@@ -1,6 +1,6 @@
 # Breast Reconstruction Analgesia Review
 
-[Reader’s guide](START_HERE.md) · [Authorship & review status](AUTHORSHIP_AND_REVIEW.md) · [Disclaimer](DISCLAIMER.md) · [Portfolio home](https://collingeorge.github.io/CM-2026/)
+[Reader’s guide](START_HERE.md) · [Authorship & review status](AUTHORSHIP_AND_REVIEW.md) · [Disclaimer](DISCLAIMER.md) · [Historical version notice](HISTORICAL_VERSION_NOTICE.md) · [Portfolio home](https://collingeorge.github.io/CM-2026/)
 
 
 ## Applied clinical examples — 28 October 2026
@@ -9,15 +9,15 @@
 - [Shared anesthesia options and cases](ANESTHESIA_OPTIONS_AND_CASES.md): the same four-modality guide and 12 general teaching cases used throughout the clinical portfolio.
 - [Example format and verification standard](CASE_EXAMPLE_STANDARD.md), [topic source audit](EXAMPLE_SOURCE_AUDIT.json), and [shared source audit](SHARED_SOURCE_AUDIT.json).
 
-These additions use a consistent educational format and source documentation; they do not certify clinical correctness, guideline compliance or patient-care suitability. Existing manuscript/PDF content is retained.
+These additions use a consistent educational format and source documentation; they do not certify clinical correctness, guideline compliance or patient-care suitability. Existing manuscript content is retained. This repository contains no PDF exports of the manuscript.
 
 
 Perioperative Analgesic Strategy in Breast Reconstruction Surgery: A Narrative Literature Review with Evidence-Gap Analysis for Breast Implant Revision
 
 ![Status](https://img.shields.io/badge/Status-Educational%20Portfolio-orange)
 ![Project Type](https://img.shields.io/badge/Project-Pre--Medical-blue)
-![Version](https://img.shields.io/badge/Version-2.0-green)
-![Last Updated](https://img.shields.io/badge/Updated-October%202026-lightgrey)
+![Version](https://img.shields.io/badge/Release-2026.11-green)
+![Last Updated](https://img.shields.io/badge/Updated-November%202026-lightgrey)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 > **Educational work by a pre-medical student — not medical advice.** Not a clinical protocol, prescription, or patient handout, and not for patient care. See [DISCLAIMER](DISCLAIMER.md).
@@ -40,11 +40,12 @@ All documents are narrative literature reviews prepared as part of an independen
 
 | File | Description |
 |------|-------------|
-| [George-BreastRecon-Review-v8.md](George-BreastRecon-Review-v8.md) | **Main manuscript (version 2.0, revision 8)** — narrative literature review across five perioperative decision domains, with a documented PubMed search, evidence tables, and an evidence-gap analysis for implant revision |
+| [George-BreastRecon-Review-v8.md](George-BreastRecon-Review-v8.md) | **Main manuscript (manuscript v8, repository release 2026.11; Markdown only, no PDF)** — narrative literature review across five perioperative decision domains, with a documented PubMed search, evidence tables, and an evidence-gap analysis for implant revision |
 | [02_Comparative_Educational_Review.md](02_Comparative_Educational_Review.md) | Narrative review of multimodal analgesic approaches in breast reconstruction revision, including regional anesthesia, opioid-sparing strategies, and ERAS-aligned frameworks |
 | [03_Patient_Communication_Analysis.md](03_Patient_Communication_Analysis.md) | Narrative review of patient communication challenges in perioperative counseling, with attention to health literacy, shared decision-making, and informed preference formation |
 | [04_Postoperative_Recovery_Considerations.md](04_Postoperative_Recovery_Considerations.md) | Narrative review of postoperative recovery as a multidimensional outcome domain, examining the gap between standard recovery metrics and patient-experienced recovery |
-| [06_References.md](06_References.md) | Master numbered reference list for the manuscript and all companion documents, with verified PMIDs and DOIs |
+| [06_References.md](06_References.md) | Master numbered reference list for the manuscript and all companion documents, with identity-checked PMIDs and DOIs (metadata only; see [REFERENCE_AUDIT.md](REFERENCE_AUDIT.md)) |
+| [HISTORICAL_VERSION_NOTICE.md](HISTORICAL_VERSION_NOTICE.md) | How to read earlier versions recoverable from Git history |
 | [CITATION.cff](CITATION.cff) | Citation metadata |
 | [LICENSE](LICENSE) | CC BY 4.0 |
 
@@ -103,7 +104,7 @@ It is not intended for patient care, clinical decision-making, institutional imp
 
 ## Evidence Base
 
-The documents draw on published literature including the ERAS Society consensus review for breast reconstruction, the PROSPECT guideline for oncological breast surgery, the SAMBA practice advisory on pectoralis blocks, ASRA Pain Medicine guidance on local anesthetic systemic toxicity and antithrombotic therapy, consensus PONV guidelines, randomized trials and meta-analyses on regional techniques and opioid-sparing adjuncts, health literacy and shared decision-making research, and perioperative recovery measurement research.
+The documents draw on published literature including the ERAS Society consensus review for breast reconstruction, the PROSPECT recommendations for oncological breast surgery (2020, historical, and the 2026 update for major surgery), the SAMBA practice advisory on pectoralis blocks, the 2026 ASA practice guideline on local and regional analgesia (including mastectomy), ASRA Pain Medicine guidance on local anesthetic systemic toxicity and antithrombotic therapy (fifth edition, 2025), the international IV-lidocaine consensus statement, the Fifth consensus PONV guidelines (the Fourth is cited as historical), randomized trials and meta-analyses on regional techniques and opioid-sparing adjuncts, health literacy and shared decision-making research, and perioperative recovery measurement research.
 
 Reference identifiers are provided for audit; this release-preparation pass does not establish that every citation and supporting claim has been re-verified. Full references with PMIDs and DOIs are provided in [`06_References.md`](06_References.md).
 
@@ -113,11 +114,11 @@ Reference identifiers are provided for audit; this release-preparation pass does
 
 **Vancouver**
 
-George CB. Perioperative analgesic strategy in breast reconstruction surgery: a narrative literature review with evidence-gap analysis for breast implant revision [Internet]. Version 2.0. 2026 Oct. Available from: https://github.com/collingeorge/Breast-Reconstruction-Analgesia-Review
+George CB. Perioperative analgesic strategy in breast reconstruction surgery: a narrative literature review with evidence-gap analysis for breast implant revision [Internet]. Manuscript v8, repository release 2026.11. 2026 Nov. Available from: https://github.com/collingeorge/Breast-Reconstruction-Analgesia-Review
 
 **APA**
 
-George, C. B. (2026). *Perioperative analgesic strategy in breast reconstruction surgery: A narrative literature review with evidence-gap analysis for breast implant revision* (Version 2.0) [Educational portfolio]. GitHub. https://github.com/collingeorge/Breast-Reconstruction-Analgesia-Review
+George, C. B. (2026). *Perioperative analgesic strategy in breast reconstruction surgery: A narrative literature review with evidence-gap analysis for breast implant revision* (Manuscript v8, repository release 2026.11) [Educational portfolio]. GitHub. https://github.com/collingeorge/Breast-Reconstruction-Analgesia-Review
 
 ---
 
@@ -138,6 +139,6 @@ Licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](http
 © 2025–2026 Collin B. George — https://github.com/collingeorge/Breast-Reconstruction-Analgesia-Review
 
 
-## Source/version update — 27 October 2026
+## Source currency — November 2026
 
-The 2020 PONV consensus and 2018 antithrombotic guideline are historical sources. A [fifth PONV consensus executive summary](https://pubmed.ncbi.nlm.nih.gov/41237407/) and [ASRA fifth-edition guideline](https://asra.com/guidelines-articles/guidelines) are now available. Their existence does not validate this portfolio as an implementation guide. [Foo et al. 2021](https://pubmed.ncbi.nlm.nih.gov/33141959/) provides specific IV-lidocaine safety cautions regarding other local-anesthetic interventions. Historical PROSPECT gabapentin recommendations should be read alongside [Verret et al. 2020](https://pubmed.ncbi.nlm.nih.gov/32667154/), rather than treated as an unconditional routine-use endorsement.
+Superseded guidance is now labeled as historical in the document bodies, and the current versions are cited and listed in [06_References.md](06_References.md) (entries 60–66). These are the 2026 PROSPECT update for major oncological breast surgery, the Fifth PONV consensus, the ASRA antithrombotic guideline fifth edition, the 2026 ASA local and regional analgesia guideline, the Foo et al. 2021 IV-lidocaine consensus and the Verret et al. 2020 gabapentinoid meta-analysis. Citing a newer guideline does not make this portfolio an implementation guide. See [RELEASE_NOTES.md](RELEASE_NOTES.md) for details.
