@@ -392,7 +392,7 @@ Nearly all primary evidence comes from breast cancer surgery, mixed breast surge
 
 ### 9.7 Author Qualification
 
-The author is a premedical student without clinical licensure. Interpretations reflect educational engagement with published sources rather than professional clinical judgment. This manuscript is not clinical guidance and must not be used as such.
+The author is a pre-medical student without clinical licensure. Interpretations reflect educational engagement with published sources rather than professional clinical judgment. This manuscript is not clinical guidance and must not be used as such.
 
 ---
 
