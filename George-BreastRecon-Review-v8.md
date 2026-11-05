@@ -2,11 +2,11 @@
 
 *Five decision domains: analgesic modality, regional techniques, adjuvant pharmacology, risk-stratified communication, and outcome measurement*
 
-**Collin B. George, Independent Researcher**
+**Collin B. George, pre-medical student**
 ORCID: 0009-0007-8162-6839
 Version 2.0 (manuscript revision 8) — October 2026
 
-> **Educational literature review only.** This document is not medical advice, a clinical protocol, or a guideline, and must not be used for patient care. The author is a premedical student, not a licensed clinician. It is not affiliated with, endorsed by, or reviewed by any institution.
+> **Educational work by a pre-medical student — not medical advice.** Not a clinical protocol, prescription, or patient handout, and not for patient care. See [DISCLAIMER](DISCLAIMER.md).
 
 **Review type:** Narrative literature review with a documented PubMed search. This is not a systematic review or meta-analysis; no PRISMA reporting standard, formal risk-of-bias assessment, GRADE certainty rating, or data pooling was performed.
 

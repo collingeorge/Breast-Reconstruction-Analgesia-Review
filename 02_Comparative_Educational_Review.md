@@ -1,11 +1,11 @@
 # Literature-Based Review of Multimodal Analgesic Approaches in Breast Reconstruction Revision
 
-**Collin B. George, Independent Researcher**
+**Collin B. George, pre-medical student**
 ORCID: 0009-0007-8162-6839
 Narrative Literature Review — Version 2.0, October 2026
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-> **Educational literature review only.** Not medical advice, a clinical protocol, or a guideline; not for patient care. The author is a premedical student, not a licensed clinician.
+> **Educational work by a pre-medical student — not medical advice.** Not a clinical protocol, prescription, or patient handout, and not for patient care. See [DISCLAIMER](DISCLAIMER.md).
 
 ---
 
@@ -227,7 +227,7 @@ Full citations, with verified PMIDs and DOIs, are in the master list in [`06_Ref
 
 ## Author and License
 
-**Collin B. George, Independent Researcher**
+**Collin B. George, pre-medical student**
 ORCID: 0009-0007-8162-6839
 GitHub: [github.com/collingeorge](https://github.com/collingeorge)
 

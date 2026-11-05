@@ -1,6 +1,6 @@
 # Breast Reconstruction Analgesia Review
 
-[Reader’s guide](START_HERE.md) · [Authorship & review status](AUTHORSHIP_AND_REVIEW.md) · [Portfolio home](https://collingeorge.github.io/CM-2026/)
+[Reader’s guide](START_HERE.md) · [Authorship & review status](AUTHORSHIP_AND_REVIEW.md) · [Disclaimer](DISCLAIMER.md) · [Portfolio home](https://collingeorge.github.io/CM-2026/)
 
 
 ## Applied clinical examples — 28 October 2026
@@ -20,7 +20,7 @@ Perioperative Analgesic Strategy in Breast Reconstruction Surgery: A Narrative L
 ![Last Updated](https://img.shields.io/badge/Updated-October%202026-lightgrey)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-> **Educational literature review only.** Nothing in this repository is medical advice, a clinical protocol, or a guideline, and none of it should be used for patient care. The author is a premedical student, not a licensed clinician.
+> **Educational work by a pre-medical student — not medical advice.** Not a clinical protocol, prescription, or patient handout, and not for patient care. See [DISCLAIMER](DISCLAIMER.md).
 
 ---
 
@@ -123,7 +123,7 @@ George, C. B. (2026). *Perioperative analgesic strategy in breast reconstruction
 
 ## Author
 
-**Collin B. George, Independent Researcher**
+**Collin B. George, pre-medical student**
 ORCID: 0009-0007-8162-6839
 GitHub: [github.com/collingeorge](https://github.com/collingeorge)
 

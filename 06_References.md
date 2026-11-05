@@ -1,5 +1,7 @@
 # References
 
+> **Educational work by a pre-medical student — not medical advice.** Not a clinical protocol, prescription, or patient handout, and not for patient care. See [DISCLAIMER](DISCLAIMER.md).
+
 This is the single master reference list for the repository. It covers every source cited in `George-BreastRecon-Review-v8.md` (the manuscript) and in `02_Comparative_Educational_Review.md`, `03_Patient_Communication_Analysis.md`, and `04_Postoperative_Recovery_Considerations.md`. The documents cite sources by author and year; the numbers below are shared by all documents.
 
 Formatting follows a modified AMA style. Entries are listed alphabetically by first author. On 27 October 2026, NCBI ESummary metadata were retrieved for all 58 PMID-bearing entries and DOI identities matched case-insensitively. The National Academies record confirmed the remaining book identifier. Available PubMed abstracts were read for claim/population checks; entries without abstracts and claims beyond abstracts are not thereby full-text verified. See REFERENCE_AUDIT.md. The "Cited in" note lists the documents that cite each source (M = manuscript; 02, 03, 04 = component documents).
@@ -130,7 +132,7 @@ Version 2.0 — October 2026
 
 ## Author and License
 
-**Collin B. George, Independent Researcher**
+**Collin B. George, pre-medical student**
 ORCID: 0009-0007-8162-6839
 GitHub: [github.com/collingeorge](https://github.com/collingeorge)
 

@@ -1,5 +1,7 @@
 # Reference and claim audit: 27 October 2026
 
+> **Educational work by a pre-medical student — not medical advice.** Not a clinical protocol, prescription, or patient handout, and not for patient care. See [DISCLAIMER](DISCLAIMER.md).
+
 ## Completed checks
 
 - Retrieved official NCBI metadata for all 58 PMID-bearing entries; all listed DOIs matched after case normalization. This is identity checking, not replication or clinical validation.
